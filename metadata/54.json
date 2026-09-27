@@ -1,0 +1,81 @@
+{
+  "name": "REALM #54",
+  "symbol": "REALM",
+  "description": "One of 1,111 beings of the realm.",
+  "image": "54.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Being",
+      "value": "cyclops"
+    },
+    {
+      "trait_type": "Colourway",
+      "value": "Verdant"
+    },
+    {
+      "trait_type": "Geometry",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Planets",
+      "value": "Two"
+    },
+    {
+      "trait_type": "UFOs",
+      "value": "None"
+    },
+    {
+      "trait_type": "Explosions",
+      "value": "Two"
+    },
+    {
+      "trait_type": "Lightning",
+      "value": "Strike"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "None"
+    },
+    {
+      "trait_type": "Dust",
+      "value": "None"
+    },
+    {
+      "trait_type": "Trees",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mushrooms",
+      "value": "Few"
+    },
+    {
+      "trait_type": "Spores",
+      "value": "Matching"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Plain"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "54.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

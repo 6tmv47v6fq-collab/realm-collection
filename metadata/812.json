@@ -1,0 +1,81 @@
+{
+  "name": "REALM #812",
+  "symbol": "REALM",
+  "description": "One of 1,111 beings of the realm.",
+  "image": "812.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Being",
+      "value": "reptilian"
+    },
+    {
+      "trait_type": "Colourway",
+      "value": "Auric"
+    },
+    {
+      "trait_type": "Geometry",
+      "value": "Rosette"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "Field"
+    },
+    {
+      "trait_type": "Planets",
+      "value": "None"
+    },
+    {
+      "trait_type": "UFOs",
+      "value": "Few"
+    },
+    {
+      "trait_type": "Explosions",
+      "value": "Two"
+    },
+    {
+      "trait_type": "Lightning",
+      "value": "Strike"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Wisp"
+    },
+    {
+      "trait_type": "Dust",
+      "value": "None"
+    },
+    {
+      "trait_type": "Trees",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mushrooms",
+      "value": "None"
+    },
+    {
+      "trait_type": "Spores",
+      "value": "Matching"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Plain"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "812.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

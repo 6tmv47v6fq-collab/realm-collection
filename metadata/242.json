@@ -1,0 +1,81 @@
+{
+  "name": "REALM #242",
+  "symbol": "REALM",
+  "description": "One of 1,111 beings of the realm.",
+  "image": "242.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Being",
+      "value": "crowned-flame"
+    },
+    {
+      "trait_type": "Colourway",
+      "value": "Eclipse"
+    },
+    {
+      "trait_type": "Geometry",
+      "value": "Weird"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "Field"
+    },
+    {
+      "trait_type": "Planets",
+      "value": "Cluster"
+    },
+    {
+      "trait_type": "UFOs",
+      "value": "Few"
+    },
+    {
+      "trait_type": "Explosions",
+      "value": "One"
+    },
+    {
+      "trait_type": "Lightning",
+      "value": "Tempest"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Rising"
+    },
+    {
+      "trait_type": "Dust",
+      "value": "Faint"
+    },
+    {
+      "trait_type": "Trees",
+      "value": "Copse"
+    },
+    {
+      "trait_type": "Mushrooms",
+      "value": "Cluster"
+    },
+    {
+      "trait_type": "Spores",
+      "value": "Complementary"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Acid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Slit"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "242.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

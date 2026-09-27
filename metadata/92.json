@@ -1,0 +1,81 @@
+{
+  "name": "REALM #92",
+  "symbol": "REALM",
+  "description": "One of 1,111 beings of the realm.",
+  "image": "92.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Being",
+      "value": "grey-plain"
+    },
+    {
+      "trait_type": "Colourway",
+      "value": "Verdant"
+    },
+    {
+      "trait_type": "Geometry",
+      "value": "Mandala"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "Sparse"
+    },
+    {
+      "trait_type": "Planets",
+      "value": "None"
+    },
+    {
+      "trait_type": "UFOs",
+      "value": "None"
+    },
+    {
+      "trait_type": "Explosions",
+      "value": "One"
+    },
+    {
+      "trait_type": "Lightning",
+      "value": "None"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Rising"
+    },
+    {
+      "trait_type": "Dust",
+      "value": "None"
+    },
+    {
+      "trait_type": "Trees",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mushrooms",
+      "value": "Few"
+    },
+    {
+      "trait_type": "Spores",
+      "value": "Cold"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Cold"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Slit"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "92.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
