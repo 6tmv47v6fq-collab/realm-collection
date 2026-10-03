@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "Being",
-      "value": "fanged"
+      "value": "Deep 56"
     },
     {
       "trait_type": "Colourway",
@@ -18,55 +18,39 @@
     },
     {
       "trait_type": "Geometry",
-      "value": "None"
+      "value": "Gatefold"
     },
     {
-      "trait_type": "Stars",
-      "value": "Dense"
+      "trait_type": "Aura",
+      "value": "Rose"
     },
     {
       "trait_type": "Planets",
-      "value": "Two"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
-      "value": "Fleet"
+      "value": "None"
     },
     {
-      "trait_type": "Explosions",
-      "value": "Barrage"
+      "trait_type": "Supernova",
+      "value": "Two"
     },
     {
       "trait_type": "Lightning",
-      "value": "Tempest"
+      "value": "None"
     },
     {
-      "trait_type": "Smoke",
-      "value": "Wisp"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Faint"
+      "trait_type": "Mushrooms",
+      "value": "None"
     },
     {
       "trait_type": "Trees",
       "value": "None"
     },
     {
-      "trait_type": "Mushrooms",
-      "value": "Grove"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Matching"
-    },
-    {
-      "trait_type": "Aura",
-      "value": "Cold"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Starburst"
+      "trait_type": "Moon Dust",
+      "value": "Drifting"
     }
   ],
   "properties": {

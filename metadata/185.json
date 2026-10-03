@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "fanged"
+      "value": "Deep 61"
     },
     {
       "trait_type": "Colourway",
-      "value": "Auric"
+      "value": "Verdant"
     },
     {
       "trait_type": "Geometry",
-      "value": "Flower"
+      "value": "Metatron"
     },
     {
-      "trait_type": "Stars",
-      "value": "Sparse"
+      "trait_type": "Aura",
+      "value": "Opposed"
     },
     {
       "trait_type": "Planets",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
-      "value": "Few"
+      "value": "One"
     },
     {
-      "trait_type": "Explosions",
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
       "trait_type": "Lightning",
-      "value": "Strike"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Shroud"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Drifting"
-    },
-    {
-      "trait_type": "Trees",
       "value": "None"
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Few"
+      "value": "None"
     },
     {
-      "trait_type": "Spores",
-      "value": "Matching"
+      "trait_type": "Trees",
+      "value": "Copse"
     },
     {
-      "trait_type": "Aura",
-      "value": "Cold"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Ringed"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

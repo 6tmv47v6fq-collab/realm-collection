@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "fairy"
+      "value": "Crystal Warden"
     },
     {
       "trait_type": "Colourway",
-      "value": "Bloom"
+      "value": "Furnace"
     },
     {
       "trait_type": "Geometry",
-      "value": "Yantra"
+      "value": "Flower"
     },
     {
-      "trait_type": "Stars",
-      "value": "Field"
+      "trait_type": "Aura",
+      "value": "Cold"
     },
     {
       "trait_type": "Planets",
-      "value": "Cluster"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
       "value": "None"
     },
     {
-      "trait_type": "Explosions",
-      "value": "One"
+      "trait_type": "Supernova",
+      "value": "None"
     },
     {
       "trait_type": "Lightning",
-      "value": "Tempest"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Wisp"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Heavy"
-    },
-    {
-      "trait_type": "Trees",
-      "value": "Forest"
+      "value": "Strike"
     },
     {
       "trait_type": "Mushrooms",
       "value": "None"
     },
     {
-      "trait_type": "Spores",
-      "value": "Matching"
+      "trait_type": "Trees",
+      "value": "One"
     },
     {
-      "trait_type": "Aura",
-      "value": "Acid"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Plain"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

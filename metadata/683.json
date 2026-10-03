@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "Being",
-      "value": "fairy"
+      "value": "Jester of Tides"
     },
     {
       "trait_type": "Colourway",
@@ -18,55 +18,39 @@
     },
     {
       "trait_type": "Geometry",
-      "value": "None"
-    },
-    {
-      "trait_type": "Stars",
-      "value": "Dense"
-    },
-    {
-      "trait_type": "Planets",
-      "value": "Two"
-    },
-    {
-      "trait_type": "UFOs",
-      "value": "One"
-    },
-    {
-      "trait_type": "Explosions",
-      "value": "None"
-    },
-    {
-      "trait_type": "Lightning",
-      "value": "Storm"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Rising"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Faint"
-    },
-    {
-      "trait_type": "Trees",
-      "value": "Copse"
-    },
-    {
-      "trait_type": "Mushrooms",
-      "value": "Cluster"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Complementary"
+      "value": "Weird"
     },
     {
       "trait_type": "Aura",
-      "value": "Opposed"
+      "value": "Cold"
     },
     {
-      "trait_type": "Eyes",
-      "value": "Plain"
+      "trait_type": "Planets",
+      "value": "None"
+    },
+    {
+      "trait_type": "UFOs",
+      "value": "None"
+    },
+    {
+      "trait_type": "Supernova",
+      "value": "Two"
+    },
+    {
+      "trait_type": "Lightning",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mushrooms",
+      "value": "None"
+    },
+    {
+      "trait_type": "Trees",
+      "value": "None"
+    },
+    {
+      "trait_type": "Moon Dust",
+      "value": "Drifting"
     }
   ],
   "properties": {

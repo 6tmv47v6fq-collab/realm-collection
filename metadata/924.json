@@ -10,19 +10,19 @@
     },
     {
       "trait_type": "Being",
-      "value": "reptilian"
+      "value": "Folk 31"
     },
     {
       "trait_type": "Colourway",
-      "value": "Bloom"
+      "value": "Furnace"
     },
     {
       "trait_type": "Geometry",
-      "value": "Spiral"
+      "value": "None"
     },
     {
-      "trait_type": "Stars",
-      "value": "Dense"
+      "trait_type": "Aura",
+      "value": "Cold"
     },
     {
       "trait_type": "Planets",
@@ -30,43 +30,27 @@
     },
     {
       "trait_type": "UFOs",
-      "value": "Few"
+      "value": "None"
     },
     {
-      "trait_type": "Explosions",
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
       "trait_type": "Lightning",
-      "value": "Storm"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Shroud"
-    },
-    {
-      "trait_type": "Dust",
       "value": "None"
-    },
-    {
-      "trait_type": "Trees",
-      "value": "Copse"
     },
     {
       "trait_type": "Mushrooms",
+      "value": "Few"
+    },
+    {
+      "trait_type": "Trees",
       "value": "None"
     },
     {
-      "trait_type": "Spores",
-      "value": "Matching"
-    },
-    {
-      "trait_type": "Aura",
-      "value": "Rose"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Ringed"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

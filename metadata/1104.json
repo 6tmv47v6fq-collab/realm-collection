@@ -10,19 +10,19 @@
     },
     {
       "trait_type": "Being",
-      "value": "reptilian"
+      "value": "Folk 61"
     },
     {
       "trait_type": "Colourway",
-      "value": "Regalia"
+      "value": "Abyss"
     },
     {
       "trait_type": "Geometry",
-      "value": "Yantra"
+      "value": "Rays"
     },
     {
-      "trait_type": "Stars",
-      "value": "Sparse"
+      "trait_type": "Aura",
+      "value": "Warm"
     },
     {
       "trait_type": "Planets",
@@ -33,7 +33,7 @@
       "value": "None"
     },
     {
-      "trait_type": "Explosions",
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
@@ -41,11 +41,7 @@
       "value": "None"
     },
     {
-      "trait_type": "Smoke",
-      "value": "None"
-    },
-    {
-      "trait_type": "Dust",
+      "trait_type": "Mushrooms",
       "value": "None"
     },
     {
@@ -53,20 +49,8 @@
       "value": "None"
     },
     {
-      "trait_type": "Mushrooms",
-      "value": "Few"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Matching"
-    },
-    {
-      "trait_type": "Aura",
-      "value": "Cold"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Plain"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

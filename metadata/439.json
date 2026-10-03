@@ -10,19 +10,19 @@
     },
     {
       "trait_type": "Being",
-      "value": "grey-fourarm"
+      "value": "Folk 07"
     },
     {
       "trait_type": "Colourway",
-      "value": "Verdant"
+      "value": "Regalia"
     },
     {
       "trait_type": "Geometry",
-      "value": "Flower"
+      "value": "Mandala"
     },
     {
-      "trait_type": "Stars",
-      "value": "Field"
+      "trait_type": "Aura",
+      "value": "Rose"
     },
     {
       "trait_type": "Planets",
@@ -33,40 +33,24 @@
       "value": "None"
     },
     {
-      "trait_type": "Explosions",
-      "value": "Barrage"
+      "trait_type": "Supernova",
+      "value": "None"
     },
     {
       "trait_type": "Lightning",
       "value": "None"
     },
     {
-      "trait_type": "Smoke",
-      "value": "Shroud"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Heavy"
+      "trait_type": "Mushrooms",
+      "value": "None"
     },
     {
       "trait_type": "Trees",
-      "value": "Forest"
+      "value": "None"
     },
     {
-      "trait_type": "Mushrooms",
-      "value": "Few"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Complementary"
-    },
-    {
-      "trait_type": "Aura",
-      "value": "Warm"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Ringed"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

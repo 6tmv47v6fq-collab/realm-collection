@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "Being",
-      "value": "fairy"
+      "value": "Pyramid Seer"
     },
     {
       "trait_type": "Colourway",
@@ -18,11 +18,11 @@
     },
     {
       "trait_type": "Geometry",
-      "value": "Gatefold"
+      "value": "Rays"
     },
     {
-      "trait_type": "Stars",
-      "value": "Field"
+      "trait_type": "Aura",
+      "value": "Opposed"
     },
     {
       "trait_type": "Planets",
@@ -30,43 +30,27 @@
     },
     {
       "trait_type": "UFOs",
-      "value": "None"
+      "value": "Few"
     },
     {
-      "trait_type": "Explosions",
-      "value": "Barrage"
+      "trait_type": "Supernova",
+      "value": "None"
     },
     {
       "trait_type": "Lightning",
       "value": "None"
     },
     {
-      "trait_type": "Smoke",
-      "value": "Wisp"
-    },
-    {
-      "trait_type": "Dust",
+      "trait_type": "Mushrooms",
       "value": "None"
     },
     {
       "trait_type": "Trees",
+      "value": "One"
+    },
+    {
+      "trait_type": "Moon Dust",
       "value": "None"
-    },
-    {
-      "trait_type": "Mushrooms",
-      "value": "Few"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Opposed"
-    },
-    {
-      "trait_type": "Aura",
-      "value": "Cold"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Ringed"
     }
   ],
   "properties": {

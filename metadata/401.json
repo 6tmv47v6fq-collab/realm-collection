@@ -10,42 +10,38 @@
     },
     {
       "trait_type": "Being",
-      "value": "grey-fourarm"
+      "value": "Folk 04"
     },
     {
       "trait_type": "Colourway",
-      "value": "Auric"
+      "value": "Abyss"
     },
     {
       "trait_type": "Geometry",
-      "value": "Gatefold"
+      "value": "Metatron"
     },
     {
-      "trait_type": "Stars",
-      "value": "Sparse"
+      "trait_type": "Aura",
+      "value": "Rose"
     },
     {
       "trait_type": "Planets",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
       "value": "None"
     },
     {
-      "trait_type": "Explosions",
-      "value": "One"
-    },
-    {
-      "trait_type": "Lightning",
-      "value": "Storm"
-    },
-    {
-      "trait_type": "Smoke",
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
-      "trait_type": "Dust",
+      "trait_type": "Lightning",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mushrooms",
       "value": "None"
     },
     {
@@ -53,20 +49,8 @@
       "value": "None"
     },
     {
-      "trait_type": "Mushrooms",
-      "value": "Cluster"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Golden"
-    },
-    {
-      "trait_type": "Aura",
-      "value": "Acid"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Void"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

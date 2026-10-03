@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "grey-winged"
+      "value": "Shoal 58"
     },
     {
       "trait_type": "Colourway",
-      "value": "Abyss"
+      "value": "Bloom"
     },
     {
       "trait_type": "Geometry",
-      "value": "Metatron"
+      "value": "Flower"
     },
     {
-      "trait_type": "Stars",
-      "value": "Dense"
+      "trait_type": "Aura",
+      "value": "Cold"
     },
     {
       "trait_type": "Planets",
-      "value": "Two"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
       "value": "None"
     },
     {
-      "trait_type": "Explosions",
-      "value": "Barrage"
+      "trait_type": "Supernova",
+      "value": "None"
     },
     {
       "trait_type": "Lightning",
       "value": "None"
     },
     {
-      "trait_type": "Smoke",
-      "value": "None"
-    },
-    {
-      "trait_type": "Dust",
+      "trait_type": "Mushrooms",
       "value": "None"
     },
     {
       "trait_type": "Trees",
-      "value": "Copse"
+      "value": "None"
     },
     {
-      "trait_type": "Mushrooms",
-      "value": "Grove"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Opposed"
-    },
-    {
-      "trait_type": "Aura",
-      "value": "Opposed"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Plain"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

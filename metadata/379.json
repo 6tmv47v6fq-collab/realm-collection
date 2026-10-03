@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "grey-fourarm"
+      "value": "Folk 03"
     },
     {
       "trait_type": "Colourway",
-      "value": "Furnace"
+      "value": "Ossuary"
     },
     {
       "trait_type": "Geometry",
-      "value": "Weird"
+      "value": "Metatron"
     },
     {
-      "trait_type": "Stars",
-      "value": "Field"
+      "trait_type": "Aura",
+      "value": "Rose"
     },
     {
       "trait_type": "Planets",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
-      "value": "One"
+      "value": "None"
     },
     {
-      "trait_type": "Explosions",
-      "value": "Two"
+      "trait_type": "Supernova",
+      "value": "None"
     },
     {
       "trait_type": "Lightning",
       "value": "None"
     },
     {
-      "trait_type": "Smoke",
-      "value": "Wisp"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Heavy"
+      "trait_type": "Mushrooms",
+      "value": "Cluster"
     },
     {
       "trait_type": "Trees",
+      "value": "One"
+    },
+    {
+      "trait_type": "Moon Dust",
       "value": "None"
-    },
-    {
-      "trait_type": "Mushrooms",
-      "value": "Few"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Golden"
-    },
-    {
-      "trait_type": "Aura",
-      "value": "Opposed"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Spiral"
     }
   ],
   "properties": {

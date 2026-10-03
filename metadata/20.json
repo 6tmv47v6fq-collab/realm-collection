@@ -10,46 +10,34 @@
     },
     {
       "trait_type": "Being",
-      "value": "cyclops"
+      "value": "Shoal 88"
     },
     {
       "trait_type": "Colourway",
-      "value": "Furnace"
+      "value": "Regalia"
     },
     {
       "trait_type": "Geometry",
-      "value": "Mandala"
-    },
-    {
-      "trait_type": "Stars",
-      "value": "Field"
-    },
-    {
-      "trait_type": "Planets",
-      "value": "Cluster"
-    },
-    {
-      "trait_type": "UFOs",
       "value": "None"
     },
     {
-      "trait_type": "Explosions",
+      "trait_type": "Aura",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Planets",
+      "value": "None"
+    },
+    {
+      "trait_type": "UFOs",
+      "value": "One"
+    },
+    {
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
       "trait_type": "Lightning",
-      "value": "Tempest"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "None"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Faint"
-    },
-    {
-      "trait_type": "Trees",
       "value": "None"
     },
     {
@@ -57,16 +45,12 @@
       "value": "None"
     },
     {
-      "trait_type": "Spores",
-      "value": "Golden"
+      "trait_type": "Trees",
+      "value": "None"
     },
     {
-      "trait_type": "Aura",
-      "value": "Warm"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Plain"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

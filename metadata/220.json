@@ -10,30 +10,30 @@
     },
     {
       "trait_type": "Being",
-      "value": "grey-winged"
+      "value": "Shoal 10"
     },
     {
       "trait_type": "Colourway",
-      "value": "Ossuary"
+      "value": "Bloom"
     },
     {
       "trait_type": "Geometry",
-      "value": "Gatefold"
+      "value": "Flower"
     },
     {
-      "trait_type": "Stars",
-      "value": "Dense"
+      "trait_type": "Aura",
+      "value": "Acid"
     },
     {
       "trait_type": "Planets",
-      "value": "Cluster"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
-      "value": "One"
+      "value": "None"
     },
     {
-      "trait_type": "Explosions",
+      "trait_type": "Supernova",
       "value": "Two"
     },
     {
@@ -41,32 +41,16 @@
       "value": "None"
     },
     {
-      "trait_type": "Smoke",
-      "value": "Rising"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Faint"
+      "trait_type": "Mushrooms",
+      "value": "None"
     },
     {
       "trait_type": "Trees",
-      "value": "One"
+      "value": "None"
     },
     {
-      "trait_type": "Mushrooms",
-      "value": "Grove"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Cold"
-    },
-    {
-      "trait_type": "Aura",
-      "value": "Cold"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Slit"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

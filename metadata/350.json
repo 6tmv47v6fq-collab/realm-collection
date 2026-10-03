@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "crowned-flame"
+      "value": "Crystal Warden"
     },
     {
       "trait_type": "Colourway",
-      "value": "Eclipse"
+      "value": "Auric"
     },
     {
       "trait_type": "Geometry",
-      "value": "Gatefold"
+      "value": "Lattice"
     },
     {
-      "trait_type": "Stars",
-      "value": "Field"
+      "trait_type": "Aura",
+      "value": "Rose"
     },
     {
       "trait_type": "Planets",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
-      "value": "One"
+      "value": "None"
     },
     {
-      "trait_type": "Explosions",
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
       "trait_type": "Lightning",
-      "value": "Tempest"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Rising"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Faint"
-    },
-    {
-      "trait_type": "Trees",
       "value": "None"
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Grove"
+      "value": "Cluster"
     },
     {
-      "trait_type": "Spores",
-      "value": "Complementary"
+      "trait_type": "Trees",
+      "value": "Copse"
     },
     {
-      "trait_type": "Aura",
-      "value": "Cold"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Starburst"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

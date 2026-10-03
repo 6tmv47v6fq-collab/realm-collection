@@ -10,19 +10,19 @@
     },
     {
       "trait_type": "Being",
-      "value": "crowned-flame"
+      "value": "Jelly Cap"
     },
     {
       "trait_type": "Colourway",
-      "value": "Auric"
+      "value": "Verdant"
     },
     {
       "trait_type": "Geometry",
-      "value": "Weird"
+      "value": "Rosette"
     },
     {
-      "trait_type": "Stars",
-      "value": "Dense"
+      "trait_type": "Aura",
+      "value": "Cold"
     },
     {
       "trait_type": "Planets",
@@ -30,43 +30,27 @@
     },
     {
       "trait_type": "UFOs",
-      "value": "One"
+      "value": "None"
     },
     {
-      "trait_type": "Explosions",
-      "value": "Barrage"
+      "trait_type": "Supernova",
+      "value": "None"
     },
     {
       "trait_type": "Lightning",
-      "value": "Strike"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Rising"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Heavy"
-    },
-    {
-      "trait_type": "Trees",
-      "value": "Forest"
+      "value": "Storm"
     },
     {
       "trait_type": "Mushrooms",
       "value": "Cluster"
     },
     {
-      "trait_type": "Spores",
-      "value": "Complementary"
+      "trait_type": "Trees",
+      "value": "None"
     },
     {
-      "trait_type": "Aura",
-      "value": "Opposed"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Ringed"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

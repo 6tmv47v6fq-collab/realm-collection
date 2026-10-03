@@ -10,19 +10,19 @@
     },
     {
       "trait_type": "Being",
-      "value": "reptilian"
+      "value": "Folk 23"
     },
     {
       "trait_type": "Colourway",
-      "value": "Ossuary"
+      "value": "Auric"
     },
     {
       "trait_type": "Geometry",
-      "value": "Flower"
+      "value": "Mandala"
     },
     {
-      "trait_type": "Stars",
-      "value": "Field"
+      "trait_type": "Aura",
+      "value": "Warm"
     },
     {
       "trait_type": "Planets",
@@ -30,43 +30,27 @@
     },
     {
       "trait_type": "UFOs",
-      "value": "None"
+      "value": "Few"
     },
     {
-      "trait_type": "Explosions",
-      "value": "One"
+      "trait_type": "Supernova",
+      "value": "None"
     },
     {
       "trait_type": "Lightning",
       "value": "None"
     },
     {
-      "trait_type": "Smoke",
-      "value": "Rising"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Drifting"
-    },
-    {
-      "trait_type": "Trees",
-      "value": "Forest"
-    },
-    {
       "trait_type": "Mushrooms",
       "value": "None"
     },
     {
-      "trait_type": "Spores",
-      "value": "Matching"
+      "trait_type": "Trees",
+      "value": "Copse"
     },
     {
-      "trait_type": "Aura",
-      "value": "Acid"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Plain"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

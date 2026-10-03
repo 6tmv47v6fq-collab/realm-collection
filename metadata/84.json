@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "grey-winged"
+      "value": "Shoal 37"
     },
     {
       "trait_type": "Colourway",
-      "value": "Regalia"
+      "value": "Bloom"
     },
     {
       "trait_type": "Geometry",
-      "value": "Weird"
+      "value": "Gatefold"
     },
     {
-      "trait_type": "Stars",
-      "value": "Dense"
+      "trait_type": "Aura",
+      "value": "Acid"
     },
     {
       "trait_type": "Planets",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
       "value": "None"
     },
     {
-      "trait_type": "Explosions",
-      "value": "None"
+      "trait_type": "Supernova",
+      "value": "One"
     },
     {
       "trait_type": "Lightning",
-      "value": "Tempest"
+      "value": "None"
     },
     {
-      "trait_type": "Smoke",
-      "value": "Wisp"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Drifting"
+      "trait_type": "Mushrooms",
+      "value": "Few"
     },
     {
       "trait_type": "Trees",
       "value": "None"
     },
     {
-      "trait_type": "Mushrooms",
-      "value": "Cluster"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Opposed"
-    },
-    {
-      "trait_type": "Aura",
-      "value": "Cold"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Plain"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

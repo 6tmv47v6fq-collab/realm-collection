@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "Being",
-      "value": "grey-plain"
+      "value": "Mushroom 33"
     },
     {
       "trait_type": "Colourway",
@@ -18,55 +18,39 @@
     },
     {
       "trait_type": "Geometry",
-      "value": "None"
-    },
-    {
-      "trait_type": "Stars",
-      "value": "Field"
-    },
-    {
-      "trait_type": "Planets",
-      "value": "One"
-    },
-    {
-      "trait_type": "UFOs",
-      "value": "None"
-    },
-    {
-      "trait_type": "Explosions",
-      "value": "Two"
-    },
-    {
-      "trait_type": "Lightning",
-      "value": "None"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Wisp"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "None"
-    },
-    {
-      "trait_type": "Trees",
-      "value": "None"
-    },
-    {
-      "trait_type": "Mushrooms",
-      "value": "Few"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Matching"
+      "value": "Gatefold"
     },
     {
       "trait_type": "Aura",
       "value": "Warm"
     },
     {
-      "trait_type": "Eyes",
-      "value": "Ringed"
+      "trait_type": "Planets",
+      "value": "None"
+    },
+    {
+      "trait_type": "UFOs",
+      "value": "None"
+    },
+    {
+      "trait_type": "Supernova",
+      "value": "None"
+    },
+    {
+      "trait_type": "Lightning",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mushrooms",
+      "value": "None"
+    },
+    {
+      "trait_type": "Trees",
+      "value": "Copse"
+    },
+    {
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "crowned-entity"
+      "value": "Lotus Flame"
     },
     {
       "trait_type": "Colourway",
-      "value": "Eclipse"
+      "value": "Molten"
     },
     {
       "trait_type": "Geometry",
-      "value": "None"
-    },
-    {
-      "trait_type": "Stars",
-      "value": "Sparse"
-    },
-    {
-      "trait_type": "Planets",
-      "value": "Cluster"
-    },
-    {
-      "trait_type": "UFOs",
-      "value": "Fleet"
-    },
-    {
-      "trait_type": "Explosions",
-      "value": "Barrage"
-    },
-    {
-      "trait_type": "Lightning",
-      "value": "Storm"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Shroud"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Drifting"
-    },
-    {
-      "trait_type": "Trees",
-      "value": "Copse"
-    },
-    {
-      "trait_type": "Mushrooms",
-      "value": "Grove"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Matching"
+      "value": "Rays"
     },
     {
       "trait_type": "Aura",
-      "value": "Opposed"
+      "value": "Rose"
     },
     {
-      "trait_type": "Eyes",
-      "value": "Void"
+      "trait_type": "Planets",
+      "value": "None"
+    },
+    {
+      "trait_type": "UFOs",
+      "value": "None"
+    },
+    {
+      "trait_type": "Supernova",
+      "value": "One"
+    },
+    {
+      "trait_type": "Lightning",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mushrooms",
+      "value": "Few"
+    },
+    {
+      "trait_type": "Trees",
+      "value": "None"
+    },
+    {
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

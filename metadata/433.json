@@ -10,19 +10,19 @@
     },
     {
       "trait_type": "Being",
-      "value": "reptilian"
+      "value": "Folk 04"
     },
     {
       "trait_type": "Colourway",
-      "value": "Furnace"
+      "value": "Ossuary"
     },
     {
       "trait_type": "Geometry",
       "value": "Gatefold"
     },
     {
-      "trait_type": "Stars",
-      "value": "Dense"
+      "trait_type": "Aura",
+      "value": "Opposed"
     },
     {
       "trait_type": "Planets",
@@ -30,43 +30,27 @@
     },
     {
       "trait_type": "UFOs",
-      "value": "Fleet"
+      "value": "Few"
     },
     {
-      "trait_type": "Explosions",
-      "value": "Barrage"
+      "trait_type": "Supernova",
+      "value": "None"
     },
     {
       "trait_type": "Lightning",
-      "value": "None"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "None"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Faint"
-    },
-    {
-      "trait_type": "Trees",
-      "value": "Forest"
+      "value": "Storm"
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Grove"
+      "value": "None"
     },
     {
-      "trait_type": "Spores",
-      "value": "Opposed"
+      "trait_type": "Trees",
+      "value": "None"
     },
     {
-      "trait_type": "Aura",
-      "value": "Opposed"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Slit"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

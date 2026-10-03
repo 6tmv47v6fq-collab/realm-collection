@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "Being",
-      "value": "grey-plain"
+      "value": "Mushroom 19"
     },
     {
       "trait_type": "Colourway",
@@ -18,55 +18,39 @@
     },
     {
       "trait_type": "Geometry",
-      "value": "Flower"
+      "value": "Mandala"
     },
     {
-      "trait_type": "Stars",
-      "value": "Dense"
+      "trait_type": "Aura",
+      "value": "Opposed"
     },
     {
       "trait_type": "Planets",
-      "value": "None"
-    },
-    {
-      "trait_type": "UFOs",
       "value": "One"
     },
     {
-      "trait_type": "Explosions",
+      "trait_type": "UFOs",
+      "value": "None"
+    },
+    {
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
       "trait_type": "Lightning",
-      "value": "None"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "None"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Faint"
-    },
-    {
-      "trait_type": "Trees",
-      "value": "None"
+      "value": "Storm"
     },
     {
       "trait_type": "Mushrooms",
       "value": "None"
     },
     {
-      "trait_type": "Spores",
-      "value": "Opposed"
+      "trait_type": "Trees",
+      "value": "None"
     },
     {
-      "trait_type": "Aura",
-      "value": "Cold"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Slit"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

@@ -10,19 +10,19 @@
     },
     {
       "trait_type": "Being",
-      "value": "six-eyed"
+      "value": "Mythic 19"
     },
     {
       "trait_type": "Colourway",
-      "value": "Auric"
+      "value": "Bloom"
     },
     {
       "trait_type": "Geometry",
-      "value": "Rosette"
+      "value": "Metatron"
     },
     {
-      "trait_type": "Stars",
-      "value": "Field"
+      "trait_type": "Aura",
+      "value": "Rose"
     },
     {
       "trait_type": "Planets",
@@ -33,40 +33,24 @@
       "value": "Few"
     },
     {
-      "trait_type": "Explosions",
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
       "trait_type": "Lightning",
-      "value": "Tempest"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Rising"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Drifting"
-    },
-    {
-      "trait_type": "Trees",
-      "value": "Forest"
+      "value": "Strike"
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Cluster"
+      "value": "None"
     },
     {
-      "trait_type": "Spores",
-      "value": "Matching"
+      "trait_type": "Trees",
+      "value": "None"
     },
     {
-      "trait_type": "Aura",
-      "value": "Opposed"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Ringed"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

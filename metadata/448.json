@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "fanged"
+      "value": "Deep 39"
     },
     {
       "trait_type": "Colourway",
-      "value": "Ossuary"
+      "value": "Auric"
     },
     {
       "trait_type": "Geometry",
-      "value": "Flower"
+      "value": "Yantra"
     },
     {
-      "trait_type": "Stars",
-      "value": "Dense"
+      "trait_type": "Aura",
+      "value": "Warm"
     },
     {
       "trait_type": "Planets",
-      "value": "Ringed"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
-      "value": "Few"
+      "value": "None"
     },
     {
-      "trait_type": "Explosions",
-      "value": "Barrage"
+      "trait_type": "Supernova",
+      "value": "Two"
     },
     {
       "trait_type": "Lightning",
       "value": "None"
     },
     {
-      "trait_type": "Smoke",
-      "value": "Rising"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Heavy"
-    },
-    {
-      "trait_type": "Trees",
+      "trait_type": "Mushrooms",
       "value": "None"
     },
     {
-      "trait_type": "Mushrooms",
-      "value": "Few"
+      "trait_type": "Trees",
+      "value": "Copse"
     },
     {
-      "trait_type": "Spores",
-      "value": "Matching"
-    },
-    {
-      "trait_type": "Aura",
-      "value": "Acid"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Ringed"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

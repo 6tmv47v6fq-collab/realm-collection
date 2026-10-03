@@ -10,46 +10,34 @@
     },
     {
       "trait_type": "Being",
-      "value": "grey-fourarm"
+      "value": "Folk 09"
     },
     {
       "trait_type": "Colourway",
-      "value": "Abyss"
+      "value": "Verdant"
     },
     {
       "trait_type": "Geometry",
-      "value": "Weird"
+      "value": "Flower"
     },
     {
-      "trait_type": "Stars",
-      "value": "Sparse"
+      "trait_type": "Aura",
+      "value": "Rose"
     },
     {
       "trait_type": "Planets",
-      "value": "Two"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
       "value": "None"
     },
     {
-      "trait_type": "Explosions",
-      "value": "Two"
-    },
-    {
-      "trait_type": "Lightning",
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
-      "trait_type": "Smoke",
-      "value": "Rising"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Drifting"
-    },
-    {
-      "trait_type": "Trees",
+      "trait_type": "Lightning",
       "value": "None"
     },
     {
@@ -57,16 +45,12 @@
       "value": "None"
     },
     {
-      "trait_type": "Spores",
-      "value": "Complementary"
+      "trait_type": "Trees",
+      "value": "None"
     },
     {
-      "trait_type": "Aura",
-      "value": "Warm"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Ringed"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

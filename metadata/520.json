@@ -10,42 +10,38 @@
     },
     {
       "trait_type": "Being",
-      "value": "crowned"
+      "value": "Deep 09"
     },
     {
       "trait_type": "Colourway",
-      "value": "Ossuary"
+      "value": "Verdant"
     },
     {
       "trait_type": "Geometry",
-      "value": "Mandala"
+      "value": "Spiral"
     },
     {
-      "trait_type": "Stars",
-      "value": "Dense"
+      "trait_type": "Aura",
+      "value": "Rose"
     },
     {
       "trait_type": "Planets",
-      "value": "Cluster"
-    },
-    {
-      "trait_type": "UFOs",
-      "value": "Fleet"
-    },
-    {
-      "trait_type": "Explosions",
-      "value": "Barrage"
-    },
-    {
-      "trait_type": "Lightning",
       "value": "None"
     },
     {
-      "trait_type": "Smoke",
-      "value": "Rising"
+      "trait_type": "UFOs",
+      "value": "None"
     },
     {
-      "trait_type": "Dust",
+      "trait_type": "Supernova",
+      "value": "None"
+    },
+    {
+      "trait_type": "Lightning",
+      "value": "Storm"
+    },
+    {
+      "trait_type": "Mushrooms",
       "value": "None"
     },
     {
@@ -53,20 +49,8 @@
       "value": "None"
     },
     {
-      "trait_type": "Mushrooms",
+      "trait_type": "Moon Dust",
       "value": "None"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Golden"
-    },
-    {
-      "trait_type": "Aura",
-      "value": "Opposed"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Void"
     }
   ],
   "properties": {

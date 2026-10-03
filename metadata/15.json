@@ -10,30 +10,30 @@
     },
     {
       "trait_type": "Being",
-      "value": "fanged"
+      "value": "Deep 30"
     },
     {
       "trait_type": "Colourway",
-      "value": "Abyss"
+      "value": "Regalia"
     },
     {
       "trait_type": "Geometry",
-      "value": "None"
+      "value": "Rays"
     },
     {
-      "trait_type": "Stars",
-      "value": "Field"
+      "trait_type": "Aura",
+      "value": "Cold"
     },
     {
       "trait_type": "Planets",
-      "value": "Two"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
-      "value": "Fleet"
+      "value": "None"
     },
     {
-      "trait_type": "Explosions",
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
@@ -41,32 +41,16 @@
       "value": "Storm"
     },
     {
-      "trait_type": "Smoke",
-      "value": "Rising"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Drifting"
+      "trait_type": "Mushrooms",
+      "value": "Few"
     },
     {
       "trait_type": "Trees",
       "value": "None"
     },
     {
-      "trait_type": "Mushrooms",
-      "value": "Grove"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Golden"
-    },
-    {
-      "trait_type": "Aura",
-      "value": "Cold"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Spiral"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

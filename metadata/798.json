@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "cyclops"
+      "value": "Shoal 81"
     },
     {
       "trait_type": "Colourway",
-      "value": "Abyss"
+      "value": "Verdant"
     },
     {
       "trait_type": "Geometry",
-      "value": "None"
+      "value": "Rays"
     },
     {
-      "trait_type": "Stars",
-      "value": "Sparse"
+      "trait_type": "Aura",
+      "value": "Opposed"
     },
     {
       "trait_type": "Planets",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
-      "value": "Fleet"
+      "value": "None"
     },
     {
-      "trait_type": "Explosions",
-      "value": "One"
+      "trait_type": "Supernova",
+      "value": "None"
     },
     {
       "trait_type": "Lightning",
       "value": "None"
     },
     {
-      "trait_type": "Smoke",
-      "value": "Wisp"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Heavy"
-    },
-    {
-      "trait_type": "Trees",
-      "value": "One"
-    },
-    {
       "trait_type": "Mushrooms",
       "value": "None"
     },
     {
-      "trait_type": "Spores",
-      "value": "Matching"
+      "trait_type": "Trees",
+      "value": "None"
     },
     {
-      "trait_type": "Aura",
-      "value": "Acid"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Starburst"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

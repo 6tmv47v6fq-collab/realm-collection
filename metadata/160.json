@@ -10,19 +10,19 @@
     },
     {
       "trait_type": "Being",
-      "value": "grey-tall"
+      "value": "Mushroom 45"
     },
     {
       "trait_type": "Colourway",
-      "value": "Regalia"
+      "value": "Moss"
     },
     {
       "trait_type": "Geometry",
-      "value": "Rays"
+      "value": "Rosette"
     },
     {
-      "trait_type": "Stars",
-      "value": "Dense"
+      "trait_type": "Aura",
+      "value": "Cold"
     },
     {
       "trait_type": "Planets",
@@ -33,7 +33,7 @@
       "value": "None"
     },
     {
-      "trait_type": "Explosions",
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
@@ -41,11 +41,7 @@
       "value": "None"
     },
     {
-      "trait_type": "Smoke",
-      "value": "None"
-    },
-    {
-      "trait_type": "Dust",
+      "trait_type": "Mushrooms",
       "value": "None"
     },
     {
@@ -53,20 +49,8 @@
       "value": "Copse"
     },
     {
-      "trait_type": "Mushrooms",
+      "trait_type": "Moon Dust",
       "value": "None"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Matching"
-    },
-    {
-      "trait_type": "Aura",
-      "value": "Warm"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Plain"
     }
   ],
   "properties": {

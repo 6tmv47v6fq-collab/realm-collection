@@ -10,19 +10,19 @@
     },
     {
       "trait_type": "Being",
-      "value": "grey-fourarm"
+      "value": "Folk 20"
     },
     {
       "trait_type": "Colourway",
-      "value": "Ossuary"
+      "value": "Regalia"
     },
     {
       "trait_type": "Geometry",
-      "value": "Spiral"
+      "value": "Weird"
     },
     {
-      "trait_type": "Stars",
-      "value": "Sparse"
+      "trait_type": "Aura",
+      "value": "Rose"
     },
     {
       "trait_type": "Planets",
@@ -30,22 +30,18 @@
     },
     {
       "trait_type": "UFOs",
+      "value": "None"
+    },
+    {
+      "trait_type": "Supernova",
       "value": "One"
     },
     {
-      "trait_type": "Explosions",
-      "value": "None"
-    },
-    {
       "trait_type": "Lightning",
-      "value": "None"
+      "value": "Storm"
     },
     {
-      "trait_type": "Smoke",
-      "value": "Wisp"
-    },
-    {
-      "trait_type": "Dust",
+      "trait_type": "Mushrooms",
       "value": "None"
     },
     {
@@ -53,20 +49,8 @@
       "value": "None"
     },
     {
-      "trait_type": "Mushrooms",
-      "value": "Cluster"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Opposed"
-    },
-    {
-      "trait_type": "Aura",
-      "value": "Acid"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Slit"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

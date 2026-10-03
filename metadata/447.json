@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "Being",
-      "value": "cyclops"
+      "value": "Shoal 55"
     },
     {
       "trait_type": "Colourway",
@@ -18,38 +18,26 @@
     },
     {
       "trait_type": "Geometry",
-      "value": "Weird"
+      "value": "None"
     },
     {
-      "trait_type": "Stars",
-      "value": "Field"
+      "trait_type": "Aura",
+      "value": "Rose"
     },
     {
       "trait_type": "Planets",
-      "value": "Cluster"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
       "value": "None"
     },
     {
-      "trait_type": "Explosions",
-      "value": "One"
-    },
-    {
-      "trait_type": "Lightning",
-      "value": "Storm"
-    },
-    {
-      "trait_type": "Smoke",
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
-      "trait_type": "Dust",
-      "value": "Heavy"
-    },
-    {
-      "trait_type": "Trees",
+      "trait_type": "Lightning",
       "value": "None"
     },
     {
@@ -57,16 +45,12 @@
       "value": "None"
     },
     {
-      "trait_type": "Spores",
-      "value": "Matching"
+      "trait_type": "Trees",
+      "value": "None"
     },
     {
-      "trait_type": "Aura",
-      "value": "Cold"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Starburst"
+      "trait_type": "Moon Dust",
+      "value": "Faint"
     }
   ],
   "properties": {

@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "crowned-entity"
+      "value": "Throne Mystic"
     },
     {
       "trait_type": "Colourway",
-      "value": "Eclipse"
+      "value": "Ichor"
     },
     {
       "trait_type": "Geometry",
-      "value": "Mandala"
+      "value": "Metatron"
     },
     {
-      "trait_type": "Stars",
-      "value": "Dense"
+      "trait_type": "Aura",
+      "value": "Acid"
     },
     {
       "trait_type": "Planets",
-      "value": "Ringed"
+      "value": "One"
     },
     {
       "trait_type": "UFOs",
       "value": "Few"
     },
     {
-      "trait_type": "Explosions",
-      "value": "One"
+      "trait_type": "Supernova",
+      "value": "None"
     },
     {
       "trait_type": "Lightning",
-      "value": "Storm"
+      "value": "None"
     },
     {
-      "trait_type": "Smoke",
-      "value": "Shroud"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Heavy"
+      "trait_type": "Mushrooms",
+      "value": "Cluster"
     },
     {
       "trait_type": "Trees",
       "value": "None"
     },
     {
-      "trait_type": "Mushrooms",
-      "value": "Grove"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Matching"
-    },
-    {
-      "trait_type": "Aura",
-      "value": "Opposed"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Plain"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

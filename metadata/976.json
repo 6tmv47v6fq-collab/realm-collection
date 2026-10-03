@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "Being",
-      "value": "crowned"
+      "value": "Deep 14"
     },
     {
       "trait_type": "Colourway",
@@ -18,34 +18,30 @@
     },
     {
       "trait_type": "Geometry",
-      "value": "Weird"
+      "value": "Spiral"
     },
     {
-      "trait_type": "Stars",
-      "value": "Dense"
+      "trait_type": "Aura",
+      "value": "Rose"
     },
     {
       "trait_type": "Planets",
-      "value": "Ringed"
+      "value": "Two"
     },
     {
       "trait_type": "UFOs",
+      "value": "One"
+    },
+    {
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
-      "trait_type": "Explosions",
-      "value": "Barrage"
-    },
-    {
       "trait_type": "Lightning",
-      "value": "Strike"
+      "value": "None"
     },
     {
-      "trait_type": "Smoke",
-      "value": "Shroud"
-    },
-    {
-      "trait_type": "Dust",
+      "trait_type": "Mushrooms",
       "value": "None"
     },
     {
@@ -53,20 +49,8 @@
       "value": "None"
     },
     {
-      "trait_type": "Mushrooms",
-      "value": "Few"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Matching"
-    },
-    {
-      "trait_type": "Aura",
-      "value": "Opposed"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Slit"
+      "trait_type": "Moon Dust",
+      "value": "Drifting"
     }
   ],
   "properties": {

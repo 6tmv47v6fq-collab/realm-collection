@@ -10,30 +10,30 @@
     },
     {
       "trait_type": "Being",
-      "value": "grey-tall"
+      "value": "Mushroom 20"
     },
     {
       "trait_type": "Colourway",
-      "value": "Verdant"
+      "value": "Coral"
     },
     {
       "trait_type": "Geometry",
-      "value": "Mandala"
-    },
-    {
-      "trait_type": "Stars",
-      "value": "Sparse"
-    },
-    {
-      "trait_type": "Planets",
-      "value": "One"
-    },
-    {
-      "trait_type": "UFOs",
       "value": "None"
     },
     {
-      "trait_type": "Explosions",
+      "trait_type": "Aura",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Planets",
+      "value": "Two"
+    },
+    {
+      "trait_type": "UFOs",
+      "value": "Few"
+    },
+    {
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
@@ -41,32 +41,16 @@
       "value": "None"
     },
     {
-      "trait_type": "Smoke",
-      "value": "Rising"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Faint"
+      "trait_type": "Mushrooms",
+      "value": "None"
     },
     {
       "trait_type": "Trees",
       "value": "None"
     },
     {
-      "trait_type": "Mushrooms",
+      "trait_type": "Moon Dust",
       "value": "None"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Golden"
-    },
-    {
-      "trait_type": "Aura",
-      "value": "Warm"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Starburst"
     }
   ],
   "properties": {

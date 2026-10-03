@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "crowned-entity"
+      "value": "Crystal Mandala"
     },
     {
       "trait_type": "Colourway",
-      "value": "Bloom"
+      "value": "Sapphire"
     },
     {
       "trait_type": "Geometry",
-      "value": "Weird"
+      "value": "Lattice"
     },
     {
-      "trait_type": "Stars",
-      "value": "Sparse"
+      "trait_type": "Aura",
+      "value": "Cold"
     },
     {
       "trait_type": "Planets",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
-      "value": "One"
+      "value": "Few"
     },
     {
-      "trait_type": "Explosions",
-      "value": "One"
+      "trait_type": "Supernova",
+      "value": "Two"
     },
     {
       "trait_type": "Lightning",
-      "value": "Tempest"
+      "value": "None"
     },
     {
-      "trait_type": "Smoke",
-      "value": "Shroud"
-    },
-    {
-      "trait_type": "Dust",
+      "trait_type": "Mushrooms",
       "value": "None"
     },
     {
       "trait_type": "Trees",
-      "value": "Forest"
+      "value": "None"
     },
     {
-      "trait_type": "Mushrooms",
-      "value": "Grove"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Matching"
-    },
-    {
-      "trait_type": "Aura",
-      "value": "Opposed"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Starburst"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

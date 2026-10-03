@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "cyclops"
+      "value": "Shoal 02"
     },
     {
       "trait_type": "Colourway",
-      "value": "Auric"
+      "value": "Abyss"
     },
     {
       "trait_type": "Geometry",
-      "value": "Flower"
-    },
-    {
-      "trait_type": "Stars",
-      "value": "Field"
-    },
-    {
-      "trait_type": "Planets",
-      "value": "None"
-    },
-    {
-      "trait_type": "UFOs",
-      "value": "Few"
-    },
-    {
-      "trait_type": "Explosions",
-      "value": "One"
-    },
-    {
-      "trait_type": "Lightning",
-      "value": "None"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Wisp"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Faint"
-    },
-    {
-      "trait_type": "Trees",
-      "value": "Forest"
-    },
-    {
-      "trait_type": "Mushrooms",
-      "value": "Grove"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Matching"
+      "value": "Rosette"
     },
     {
       "trait_type": "Aura",
-      "value": "Rose"
+      "value": "Cold"
     },
     {
-      "trait_type": "Eyes",
-      "value": "Plain"
+      "trait_type": "Planets",
+      "value": "Ringed"
+    },
+    {
+      "trait_type": "UFOs",
+      "value": "None"
+    },
+    {
+      "trait_type": "Supernova",
+      "value": "None"
+    },
+    {
+      "trait_type": "Lightning",
+      "value": "Storm"
+    },
+    {
+      "trait_type": "Mushrooms",
+      "value": "None"
+    },
+    {
+      "trait_type": "Trees",
+      "value": "None"
+    },
+    {
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

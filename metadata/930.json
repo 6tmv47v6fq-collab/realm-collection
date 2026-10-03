@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "fairy"
+      "value": "Vine Queen"
     },
     {
       "trait_type": "Colourway",
-      "value": "Bloom"
+      "value": "Abyss"
     },
     {
       "trait_type": "Geometry",
-      "value": "None"
+      "value": "Mandala"
     },
     {
-      "trait_type": "Stars",
-      "value": "Dense"
+      "trait_type": "Aura",
+      "value": "Rose"
     },
     {
       "trait_type": "Planets",
-      "value": "Cluster"
+      "value": "Ringed"
     },
     {
       "trait_type": "UFOs",
-      "value": "Few"
+      "value": "None"
     },
     {
-      "trait_type": "Explosions",
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
       "trait_type": "Lightning",
-      "value": "Strike"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Shroud"
-    },
-    {
-      "trait_type": "Dust",
       "value": "None"
     },
     {
-      "trait_type": "Trees",
-      "value": "Copse"
-    },
-    {
       "trait_type": "Mushrooms",
-      "value": "Grove"
+      "value": "Cluster"
     },
     {
-      "trait_type": "Spores",
-      "value": "Golden"
+      "trait_type": "Trees",
+      "value": "None"
     },
     {
-      "trait_type": "Aura",
-      "value": "Cold"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Ringed"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

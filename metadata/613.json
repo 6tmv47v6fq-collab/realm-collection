@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "crowned"
+      "value": "Deep 45"
     },
     {
       "trait_type": "Colourway",
-      "value": "Auric"
+      "value": "Abyss"
     },
     {
       "trait_type": "Geometry",
-      "value": "Rosette"
+      "value": "Flower"
     },
     {
-      "trait_type": "Stars",
-      "value": "Dense"
+      "trait_type": "Aura",
+      "value": "Rose"
     },
     {
       "trait_type": "Planets",
-      "value": "Cluster"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
       "value": "None"
     },
     {
-      "trait_type": "Explosions",
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
       "trait_type": "Lightning",
-      "value": "Storm"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Shroud"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Faint"
-    },
-    {
-      "trait_type": "Trees",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "Mushrooms",
       "value": "None"
     },
     {
-      "trait_type": "Spores",
-      "value": "Complementary"
+      "trait_type": "Trees",
+      "value": "One"
     },
     {
-      "trait_type": "Aura",
-      "value": "Warm"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Plain"
+      "trait_type": "Moon Dust",
+      "value": "Faint"
     }
   ],
   "properties": {

@@ -10,46 +10,34 @@
     },
     {
       "trait_type": "Being",
-      "value": "dread-winged"
+      "value": "Mythic 11"
     },
     {
       "trait_type": "Colourway",
-      "value": "Auric"
+      "value": "Eclipse"
     },
     {
       "trait_type": "Geometry",
-      "value": "Spiral"
+      "value": "Gatefold"
     },
     {
-      "trait_type": "Stars",
-      "value": "Dense"
+      "trait_type": "Aura",
+      "value": "Opposed"
     },
     {
       "trait_type": "Planets",
-      "value": "Two"
+      "value": "Ringed"
     },
     {
       "trait_type": "UFOs",
-      "value": "One"
+      "value": "Few"
     },
     {
-      "trait_type": "Explosions",
-      "value": "One"
-    },
-    {
-      "trait_type": "Lightning",
-      "value": "Tempest"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Shroud"
-    },
-    {
-      "trait_type": "Dust",
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
-      "trait_type": "Trees",
+      "trait_type": "Lightning",
       "value": "None"
     },
     {
@@ -57,16 +45,12 @@
       "value": "None"
     },
     {
-      "trait_type": "Spores",
-      "value": "Golden"
+      "trait_type": "Trees",
+      "value": "None"
     },
     {
-      "trait_type": "Aura",
-      "value": "Opposed"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Starburst"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "six-eyed"
+      "value": "Mythic 02"
     },
     {
       "trait_type": "Colourway",
-      "value": "Eclipse"
+      "value": "Auric"
     },
     {
       "trait_type": "Geometry",
-      "value": "Gatefold"
-    },
-    {
-      "trait_type": "Stars",
-      "value": "Dense"
-    },
-    {
-      "trait_type": "Planets",
-      "value": "None"
-    },
-    {
-      "trait_type": "UFOs",
-      "value": "None"
-    },
-    {
-      "trait_type": "Explosions",
-      "value": "Barrage"
-    },
-    {
-      "trait_type": "Lightning",
-      "value": "Storm"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Rising"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Drifting"
-    },
-    {
-      "trait_type": "Trees",
-      "value": "Copse"
-    },
-    {
-      "trait_type": "Mushrooms",
-      "value": "Few"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Matching"
+      "value": "Lattice"
     },
     {
       "trait_type": "Aura",
       "value": "Opposed"
     },
     {
-      "trait_type": "Eyes",
-      "value": "Slit"
+      "trait_type": "Planets",
+      "value": "Two"
+    },
+    {
+      "trait_type": "UFOs",
+      "value": "None"
+    },
+    {
+      "trait_type": "Supernova",
+      "value": "None"
+    },
+    {
+      "trait_type": "Lightning",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mushrooms",
+      "value": "None"
+    },
+    {
+      "trait_type": "Trees",
+      "value": "Copse"
+    },
+    {
+      "trait_type": "Moon Dust",
+      "value": "Faint"
     }
   ],
   "properties": {

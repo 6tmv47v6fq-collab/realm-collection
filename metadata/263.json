@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "Being",
-      "value": "grey-winged"
+      "value": "Shoal 41"
     },
     {
       "trait_type": "Colourway",
@@ -18,11 +18,11 @@
     },
     {
       "trait_type": "Geometry",
-      "value": "Rosette"
+      "value": "Mandala"
     },
     {
-      "trait_type": "Stars",
-      "value": "Dense"
+      "trait_type": "Aura",
+      "value": "Cold"
     },
     {
       "trait_type": "Planets",
@@ -30,26 +30,14 @@
     },
     {
       "trait_type": "UFOs",
-      "value": "Fleet"
+      "value": "None"
     },
     {
-      "trait_type": "Explosions",
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
       "trait_type": "Lightning",
-      "value": "Tempest"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Rising"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Heavy"
-    },
-    {
-      "trait_type": "Trees",
       "value": "None"
     },
     {
@@ -57,16 +45,12 @@
       "value": "None"
     },
     {
-      "trait_type": "Spores",
-      "value": "Cold"
+      "trait_type": "Trees",
+      "value": "None"
     },
     {
-      "trait_type": "Aura",
-      "value": "Warm"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Plain"
+      "trait_type": "Moon Dust",
+      "value": "Faint"
     }
   ],
   "properties": {

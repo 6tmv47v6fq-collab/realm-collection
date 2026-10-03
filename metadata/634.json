@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "six-eyed"
+      "value": "Mythic 15"
     },
     {
       "trait_type": "Colourway",
-      "value": "Bloom"
+      "value": "Furnace"
     },
     {
       "trait_type": "Geometry",
-      "value": "Weird"
-    },
-    {
-      "trait_type": "Stars",
-      "value": "Field"
-    },
-    {
-      "trait_type": "Planets",
-      "value": "Cluster"
-    },
-    {
-      "trait_type": "UFOs",
-      "value": "Few"
-    },
-    {
-      "trait_type": "Explosions",
-      "value": "One"
-    },
-    {
-      "trait_type": "Lightning",
-      "value": "Storm"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Shroud"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Drifting"
-    },
-    {
-      "trait_type": "Trees",
-      "value": "Forest"
-    },
-    {
-      "trait_type": "Mushrooms",
-      "value": "Grove"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Matching"
+      "value": "Mandala"
     },
     {
       "trait_type": "Aura",
-      "value": "Opposed"
+      "value": "Acid"
     },
     {
-      "trait_type": "Eyes",
-      "value": "Slit"
+      "trait_type": "Planets",
+      "value": "Ringed"
+    },
+    {
+      "trait_type": "UFOs",
+      "value": "None"
+    },
+    {
+      "trait_type": "Supernova",
+      "value": "None"
+    },
+    {
+      "trait_type": "Lightning",
+      "value": "Strike"
+    },
+    {
+      "trait_type": "Mushrooms",
+      "value": "Cluster"
+    },
+    {
+      "trait_type": "Trees",
+      "value": "None"
+    },
+    {
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

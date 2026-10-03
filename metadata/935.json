@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "Being",
-      "value": "reptilian"
+      "value": "Folk 15"
     },
     {
       "trait_type": "Colourway",
@@ -18,11 +18,11 @@
     },
     {
       "trait_type": "Geometry",
-      "value": "Gatefold"
+      "value": "Rays"
     },
     {
-      "trait_type": "Stars",
-      "value": "Sparse"
+      "trait_type": "Aura",
+      "value": "Cold"
     },
     {
       "trait_type": "Planets",
@@ -33,7 +33,7 @@
       "value": "None"
     },
     {
-      "trait_type": "Explosions",
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
@@ -41,32 +41,16 @@
       "value": "None"
     },
     {
-      "trait_type": "Smoke",
-      "value": "Rising"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Drifting"
+      "trait_type": "Mushrooms",
+      "value": "Cluster"
     },
     {
       "trait_type": "Trees",
-      "value": "Copse"
+      "value": "None"
     },
     {
-      "trait_type": "Mushrooms",
-      "value": "Few"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Golden"
-    },
-    {
-      "trait_type": "Aura",
-      "value": "Cold"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Plain"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

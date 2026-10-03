@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "god-serpent"
+      "value": "Seraph of the Spiral"
     },
     {
       "trait_type": "Colourway",
-      "value": "Bloom"
+      "value": "Jade"
     },
     {
       "trait_type": "Geometry",
-      "value": "Rosette"
+      "value": "Weird"
     },
     {
-      "trait_type": "Stars",
-      "value": "None"
+      "trait_type": "Aura",
+      "value": "Warm"
     },
     {
       "trait_type": "Planets",
-      "value": "None"
+      "value": "Ringed"
     },
     {
       "trait_type": "UFOs",
-      "value": "Fleet"
-    },
-    {
-      "trait_type": "Explosions",
-      "value": "One"
-    },
-    {
-      "trait_type": "Lightning",
-      "value": "Tempest"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Wisp"
-    },
-    {
-      "trait_type": "Dust",
       "value": "None"
     },
     {
-      "trait_type": "Trees",
-      "value": "Copse"
+      "trait_type": "Supernova",
+      "value": "None"
+    },
+    {
+      "trait_type": "Lightning",
+      "value": "Strike"
     },
     {
       "trait_type": "Mushrooms",
       "value": "Cluster"
     },
     {
-      "trait_type": "Spores",
-      "value": "Matching"
+      "trait_type": "Trees",
+      "value": "Forest"
     },
     {
-      "trait_type": "Aura",
-      "value": "Opposed"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Plain"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

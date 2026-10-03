@@ -10,46 +10,34 @@
     },
     {
       "trait_type": "Being",
-      "value": "grey-winged"
+      "value": "Shoal 87"
     },
     {
       "trait_type": "Colourway",
-      "value": "Verdant"
+      "value": "Regalia"
     },
     {
       "trait_type": "Geometry",
-      "value": "Rosette"
+      "value": "Weird"
     },
     {
-      "trait_type": "Stars",
-      "value": "Sparse"
+      "trait_type": "Aura",
+      "value": "Cold"
     },
     {
       "trait_type": "Planets",
-      "value": "Ringed"
+      "value": "One"
     },
     {
       "trait_type": "UFOs",
       "value": "None"
     },
     {
-      "trait_type": "Explosions",
-      "value": "Barrage"
-    },
-    {
-      "trait_type": "Lightning",
-      "value": "Strike"
-    },
-    {
-      "trait_type": "Smoke",
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
-      "trait_type": "Dust",
-      "value": "Heavy"
-    },
-    {
-      "trait_type": "Trees",
+      "trait_type": "Lightning",
       "value": "None"
     },
     {
@@ -57,16 +45,12 @@
       "value": "None"
     },
     {
-      "trait_type": "Spores",
-      "value": "Complementary"
+      "trait_type": "Trees",
+      "value": "None"
     },
     {
-      "trait_type": "Aura",
-      "value": "Acid"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Spiral"
+      "trait_type": "Moon Dust",
+      "value": "Faint"
     }
   ],
   "properties": {

@@ -10,46 +10,34 @@
     },
     {
       "trait_type": "Being",
-      "value": "grey-tall"
+      "value": "Mushroom 44"
     },
     {
       "trait_type": "Colourway",
-      "value": "Regalia"
+      "value": "Coral"
     },
     {
       "trait_type": "Geometry",
-      "value": "None"
+      "value": "Weird"
     },
     {
-      "trait_type": "Stars",
-      "value": "None"
+      "trait_type": "Aura",
+      "value": "Cold"
     },
     {
       "trait_type": "Planets",
-      "value": "Two"
-    },
-    {
-      "trait_type": "UFOs",
-      "value": "One"
-    },
-    {
-      "trait_type": "Explosions",
-      "value": "Barrage"
-    },
-    {
-      "trait_type": "Lightning",
       "value": "None"
     },
     {
-      "trait_type": "Smoke",
-      "value": "Rising"
+      "trait_type": "UFOs",
+      "value": "None"
     },
     {
-      "trait_type": "Dust",
-      "value": "Drifting"
+      "trait_type": "Supernova",
+      "value": "None"
     },
     {
-      "trait_type": "Trees",
+      "trait_type": "Lightning",
       "value": "None"
     },
     {
@@ -57,16 +45,12 @@
       "value": "None"
     },
     {
-      "trait_type": "Spores",
-      "value": "Opposed"
+      "trait_type": "Trees",
+      "value": "None"
     },
     {
-      "trait_type": "Aura",
-      "value": "Acid"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Ringed"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

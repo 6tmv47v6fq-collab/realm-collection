@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "god-serpent"
+      "value": "Throne Watcher"
     },
     {
       "trait_type": "Colourway",
-      "value": "Eclipse"
+      "value": "Glacier"
     },
     {
       "trait_type": "Geometry",
-      "value": "Mandala"
+      "value": "Flower"
     },
     {
-      "trait_type": "Stars",
-      "value": "Field"
+      "trait_type": "Aura",
+      "value": "Acid"
     },
     {
       "trait_type": "Planets",
-      "value": "Two"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
-      "value": "Fleet"
+      "value": "One"
     },
     {
-      "trait_type": "Explosions",
-      "value": "Two"
+      "trait_type": "Supernova",
+      "value": "One"
     },
     {
       "trait_type": "Lightning",
-      "value": "Tempest"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Shroud"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Heavy"
-    },
-    {
-      "trait_type": "Trees",
       "value": "None"
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Grove"
+      "value": "None"
     },
     {
-      "trait_type": "Spores",
-      "value": "Matching"
+      "trait_type": "Trees",
+      "value": "Forest"
     },
     {
-      "trait_type": "Aura",
-      "value": "Cold"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Ringed"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

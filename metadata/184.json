@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "dread-winged"
+      "value": "Mythic 23"
     },
     {
       "trait_type": "Colourway",
-      "value": "Bloom"
+      "value": "Eclipse"
     },
     {
       "trait_type": "Geometry",
-      "value": "None"
-    },
-    {
-      "trait_type": "Stars",
-      "value": "Dense"
-    },
-    {
-      "trait_type": "Planets",
-      "value": "Two"
-    },
-    {
-      "trait_type": "UFOs",
-      "value": "None"
-    },
-    {
-      "trait_type": "Explosions",
-      "value": "None"
-    },
-    {
-      "trait_type": "Lightning",
-      "value": "Strike"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Shroud"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "None"
-    },
-    {
-      "trait_type": "Trees",
-      "value": "None"
-    },
-    {
-      "trait_type": "Mushrooms",
-      "value": "Grove"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Complementary"
+      "value": "Mandala"
     },
     {
       "trait_type": "Aura",
       "value": "Acid"
     },
     {
-      "trait_type": "Eyes",
-      "value": "Void"
+      "trait_type": "Planets",
+      "value": "None"
+    },
+    {
+      "trait_type": "UFOs",
+      "value": "None"
+    },
+    {
+      "trait_type": "Supernova",
+      "value": "None"
+    },
+    {
+      "trait_type": "Lightning",
+      "value": "Storm"
+    },
+    {
+      "trait_type": "Mushrooms",
+      "value": "Few"
+    },
+    {
+      "trait_type": "Trees",
+      "value": "Copse"
+    },
+    {
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

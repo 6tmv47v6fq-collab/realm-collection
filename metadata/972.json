@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "reptilian"
+      "value": "Folk 43"
     },
     {
       "trait_type": "Colourway",
-      "value": "Verdant"
+      "value": "Abyss"
     },
     {
       "trait_type": "Geometry",
-      "value": "Rays"
-    },
-    {
-      "trait_type": "Stars",
-      "value": "Sparse"
-    },
-    {
-      "trait_type": "Planets",
       "value": "None"
     },
     {
-      "trait_type": "UFOs",
-      "value": "Fleet"
+      "trait_type": "Aura",
+      "value": "Cold"
     },
     {
-      "trait_type": "Explosions",
+      "trait_type": "Planets",
+      "value": "Ringed"
+    },
+    {
+      "trait_type": "UFOs",
+      "value": "None"
+    },
+    {
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
       "trait_type": "Lightning",
-      "value": "Storm"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Shroud"
-    },
-    {
-      "trait_type": "Dust",
       "value": "None"
+    },
+    {
+      "trait_type": "Mushrooms",
+      "value": "Few"
     },
     {
       "trait_type": "Trees",
       "value": "None"
     },
     {
-      "trait_type": "Mushrooms",
+      "trait_type": "Moon Dust",
       "value": "None"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Complementary"
-    },
-    {
-      "trait_type": "Aura",
-      "value": "Opposed"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Plain"
     }
   ],
   "properties": {

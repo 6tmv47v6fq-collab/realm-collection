@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "grey-fourarm"
+      "value": "Folk 31"
     },
     {
       "trait_type": "Colourway",
-      "value": "Furnace"
+      "value": "Abyss"
     },
     {
       "trait_type": "Geometry",
-      "value": "Rays"
-    },
-    {
-      "trait_type": "Stars",
-      "value": "Dense"
-    },
-    {
-      "trait_type": "Planets",
-      "value": "Two"
-    },
-    {
-      "trait_type": "UFOs",
-      "value": "None"
-    },
-    {
-      "trait_type": "Explosions",
-      "value": "One"
-    },
-    {
-      "trait_type": "Lightning",
-      "value": "Strike"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Shroud"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Faint"
-    },
-    {
-      "trait_type": "Trees",
-      "value": "None"
-    },
-    {
-      "trait_type": "Mushrooms",
-      "value": "None"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Matching"
+      "value": "Lattice"
     },
     {
       "trait_type": "Aura",
       "value": "Cold"
     },
     {
-      "trait_type": "Eyes",
-      "value": "Plain"
+      "trait_type": "Planets",
+      "value": "None"
+    },
+    {
+      "trait_type": "UFOs",
+      "value": "None"
+    },
+    {
+      "trait_type": "Supernova",
+      "value": "None"
+    },
+    {
+      "trait_type": "Lightning",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mushrooms",
+      "value": "Cluster"
+    },
+    {
+      "trait_type": "Trees",
+      "value": "None"
+    },
+    {
+      "trait_type": "Moon Dust",
+      "value": "Faint"
     }
   ],
   "properties": {

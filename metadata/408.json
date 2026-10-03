@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "crowned"
+      "value": "Deep 18"
     },
     {
       "trait_type": "Colourway",
-      "value": "Abyss"
+      "value": "Bloom"
     },
     {
       "trait_type": "Geometry",
-      "value": "Metatron"
+      "value": "Gatefold"
     },
     {
-      "trait_type": "Stars",
-      "value": "Sparse"
+      "trait_type": "Aura",
+      "value": "Opposed"
     },
     {
       "trait_type": "Planets",
-      "value": "None"
+      "value": "One"
     },
     {
       "trait_type": "UFOs",
-      "value": "None"
+      "value": "One"
     },
     {
-      "trait_type": "Explosions",
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
       "trait_type": "Lightning",
-      "value": "Tempest"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Shroud"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Faint"
-    },
-    {
-      "trait_type": "Trees",
-      "value": "Forest"
+      "value": "None"
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Cluster"
+      "value": "None"
     },
     {
-      "trait_type": "Spores",
-      "value": "Opposed"
+      "trait_type": "Trees",
+      "value": "None"
     },
     {
-      "trait_type": "Aura",
-      "value": "Cold"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Ringed"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

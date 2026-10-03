@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "god-serpent"
+      "value": "Sun Wraith"
     },
     {
       "trait_type": "Colourway",
-      "value": "Bloom"
+      "value": "Celestial"
     },
     {
       "trait_type": "Geometry",
-      "value": "Weird"
+      "value": "Yantra"
     },
     {
-      "trait_type": "Stars",
-      "value": "Dense"
+      "trait_type": "Aura",
+      "value": "Cold"
     },
     {
       "trait_type": "Planets",
-      "value": "Ringed"
+      "value": "One"
     },
     {
       "trait_type": "UFOs",
-      "value": "Few"
+      "value": "None"
     },
     {
-      "trait_type": "Explosions",
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
       "trait_type": "Lightning",
-      "value": "Tempest"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Shroud"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Drifting"
-    },
-    {
-      "trait_type": "Trees",
-      "value": "Copse"
+      "value": "Storm"
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Grove"
+      "value": "None"
     },
     {
-      "trait_type": "Spores",
-      "value": "Opposed"
+      "trait_type": "Trees",
+      "value": "One"
     },
     {
-      "trait_type": "Aura",
-      "value": "Acid"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Ringed"
+      "trait_type": "Moon Dust",
+      "value": "Faint"
     }
   ],
   "properties": {

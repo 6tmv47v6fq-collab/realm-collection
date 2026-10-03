@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "grey-winged"
+      "value": "Shoal 68"
     },
     {
       "trait_type": "Colourway",
-      "value": "Bloom"
+      "value": "Verdant"
     },
     {
       "trait_type": "Geometry",
-      "value": "None"
+      "value": "Yantra"
     },
     {
-      "trait_type": "Stars",
-      "value": "Sparse"
+      "trait_type": "Aura",
+      "value": "Warm"
     },
     {
       "trait_type": "Planets",
-      "value": "Two"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
       "value": "None"
     },
     {
-      "trait_type": "Explosions",
-      "value": "None"
-    },
-    {
-      "trait_type": "Lightning",
-      "value": "Storm"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Shroud"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Drifting"
-    },
-    {
-      "trait_type": "Trees",
+      "trait_type": "Supernova",
       "value": "One"
     },
     {
+      "trait_type": "Lightning",
+      "value": "None"
+    },
+    {
       "trait_type": "Mushrooms",
-      "value": "Few"
+      "value": "None"
     },
     {
-      "trait_type": "Spores",
-      "value": "Cold"
+      "trait_type": "Trees",
+      "value": "None"
     },
     {
-      "trait_type": "Aura",
-      "value": "Acid"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Plain"
+      "trait_type": "Moon Dust",
+      "value": "Drifting"
     }
   ],
   "properties": {

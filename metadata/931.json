@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "fairy"
+      "value": "Scale Drake"
     },
     {
       "trait_type": "Colourway",
-      "value": "Eclipse"
+      "value": "Auric"
     },
     {
       "trait_type": "Geometry",
-      "value": "Spiral"
+      "value": "Weird"
     },
     {
-      "trait_type": "Stars",
-      "value": "Dense"
+      "trait_type": "Aura",
+      "value": "Cold"
     },
     {
       "trait_type": "Planets",
-      "value": "Two"
+      "value": "Ringed"
     },
     {
       "trait_type": "UFOs",
-      "value": "One"
+      "value": "None"
     },
     {
-      "trait_type": "Explosions",
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
       "trait_type": "Lightning",
-      "value": "Storm"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Shroud"
-    },
-    {
-      "trait_type": "Dust",
       "value": "None"
     },
     {
-      "trait_type": "Trees",
-      "value": "Forest"
-    },
-    {
       "trait_type": "Mushrooms",
-      "value": "Few"
+      "value": "Cluster"
     },
     {
-      "trait_type": "Spores",
-      "value": "Matching"
+      "trait_type": "Trees",
+      "value": "None"
     },
     {
-      "trait_type": "Aura",
-      "value": "Warm"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Plain"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

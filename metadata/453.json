@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "crowned"
+      "value": "Deep 03"
     },
     {
       "trait_type": "Colourway",
-      "value": "Abyss"
+      "value": "Bloom"
     },
     {
       "trait_type": "Geometry",
-      "value": "Rosette"
+      "value": "Rays"
     },
     {
-      "trait_type": "Stars",
-      "value": "Field"
+      "trait_type": "Aura",
+      "value": "Opposed"
     },
     {
       "trait_type": "Planets",
-      "value": "One"
+      "value": "Two"
     },
     {
       "trait_type": "UFOs",
-      "value": "None"
-    },
-    {
-      "trait_type": "Explosions",
       "value": "One"
     },
     {
+      "trait_type": "Supernova",
+      "value": "Two"
+    },
+    {
       "trait_type": "Lightning",
-      "value": "Strike"
+      "value": "None"
     },
     {
-      "trait_type": "Smoke",
-      "value": "Rising"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Heavy"
+      "trait_type": "Mushrooms",
+      "value": "None"
     },
     {
       "trait_type": "Trees",
       "value": "None"
     },
     {
-      "trait_type": "Mushrooms",
-      "value": "Few"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Opposed"
-    },
-    {
-      "trait_type": "Aura",
-      "value": "Cold"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Plain"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {
