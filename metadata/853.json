@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Bloom"
+      "value": "Furnace"
     },
     {
       "trait_type": "Geometry",
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "Planets",
-      "value": "Cluster"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Explosions",
-      "value": "None"
+      "value": "Barrage"
     },
     {
       "trait_type": "Lightning",
@@ -46,7 +46,7 @@
     },
     {
       "trait_type": "Dust",
-      "value": "Drifting"
+      "value": "Heavy"
     },
     {
       "trait_type": "Trees",
@@ -62,11 +62,11 @@
     },
     {
       "trait_type": "Aura",
-      "value": "Opposed"
+      "value": "Rose"
     },
     {
       "trait_type": "Eyes",
-      "value": "Ringed"
+      "value": "Slit"
     }
   ],
   "properties": {

@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Verdant"
+      "value": "Ossuary"
     },
     {
       "trait_type": "Geometry",
-      "value": "Flower"
+      "value": "Mandala"
     },
     {
       "trait_type": "Stars",
@@ -46,7 +46,7 @@
     },
     {
       "trait_type": "Dust",
-      "value": "Faint"
+      "value": "None"
     },
     {
       "trait_type": "Trees",
@@ -54,11 +54,11 @@
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Few"
+      "value": "None"
     },
     {
       "trait_type": "Spores",
-      "value": "Complementary"
+      "value": "Opposed"
     },
     {
       "trait_type": "Aura",
@@ -66,7 +66,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Starburst"
+      "value": "Plain"
     }
   ],
   "properties": {

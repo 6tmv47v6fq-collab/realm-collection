@@ -14,19 +14,19 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Abyss"
+      "value": "Verdant"
     },
     {
       "trait_type": "Geometry",
-      "value": "Lattice"
+      "value": "None"
     },
     {
       "trait_type": "Stars",
-      "value": "Sparse"
+      "value": "Dense"
     },
     {
       "trait_type": "Planets",
-      "value": "Ringed"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
@@ -38,7 +38,7 @@
     },
     {
       "trait_type": "Lightning",
-      "value": "None"
+      "value": "Storm"
     },
     {
       "trait_type": "Smoke",
@@ -58,11 +58,11 @@
     },
     {
       "trait_type": "Spores",
-      "value": "Golden"
+      "value": "Matching"
     },
     {
       "trait_type": "Aura",
-      "value": "Warm"
+      "value": "Rose"
     },
     {
       "trait_type": "Eyes",

@@ -14,15 +14,15 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Eclipse"
+      "value": "Ossuary"
     },
     {
       "trait_type": "Geometry",
-      "value": "None"
+      "value": "Gatefold"
     },
     {
       "trait_type": "Stars",
-      "value": "Dense"
+      "value": "Field"
     },
     {
       "trait_type": "Planets",
@@ -30,11 +30,11 @@
     },
     {
       "trait_type": "UFOs",
-      "value": "None"
+      "value": "Few"
     },
     {
       "trait_type": "Explosions",
-      "value": "Two"
+      "value": "None"
     },
     {
       "trait_type": "Lightning",
@@ -42,11 +42,11 @@
     },
     {
       "trait_type": "Smoke",
-      "value": "Wisp"
+      "value": "None"
     },
     {
       "trait_type": "Dust",
-      "value": "None"
+      "value": "Faint"
     },
     {
       "trait_type": "Trees",
@@ -58,15 +58,15 @@
     },
     {
       "trait_type": "Spores",
-      "value": "Golden"
+      "value": "Matching"
     },
     {
       "trait_type": "Aura",
-      "value": "Rose"
+      "value": "Opposed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Slit"
+      "value": "Ringed"
     }
   ],
   "properties": {

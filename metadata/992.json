@@ -18,15 +18,15 @@
     },
     {
       "trait_type": "Geometry",
-      "value": "Rosette"
+      "value": "Flower"
     },
     {
       "trait_type": "Stars",
-      "value": "Dense"
+      "value": "Field"
     },
     {
       "trait_type": "Planets",
-      "value": "Two"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
@@ -38,11 +38,11 @@
     },
     {
       "trait_type": "Lightning",
-      "value": "Strike"
+      "value": "Storm"
     },
     {
       "trait_type": "Smoke",
-      "value": "Rising"
+      "value": "Wisp"
     },
     {
       "trait_type": "Dust",
@@ -50,7 +50,7 @@
     },
     {
       "trait_type": "Trees",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "Mushrooms",
@@ -66,7 +66,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Plain"
+      "value": "Void"
     }
   ],
   "properties": {

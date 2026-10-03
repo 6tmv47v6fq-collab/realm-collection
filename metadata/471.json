@@ -14,19 +14,19 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Verdant"
+      "value": "Ossuary"
     },
     {
       "trait_type": "Geometry",
-      "value": "None"
+      "value": "Spiral"
     },
     {
       "trait_type": "Stars",
-      "value": "Field"
+      "value": "Dense"
     },
     {
       "trait_type": "Planets",
-      "value": "None"
+      "value": "Two"
     },
     {
       "trait_type": "UFOs",
@@ -42,19 +42,19 @@
     },
     {
       "trait_type": "Smoke",
-      "value": "Rising"
+      "value": "Wisp"
     },
     {
       "trait_type": "Dust",
-      "value": "Drifting"
-    },
-    {
-      "trait_type": "Trees",
       "value": "None"
     },
     {
+      "trait_type": "Trees",
+      "value": "Forest"
+    },
+    {
       "trait_type": "Mushrooms",
-      "value": "Grove"
+      "value": "Cluster"
     },
     {
       "trait_type": "Spores",
@@ -62,7 +62,7 @@
     },
     {
       "trait_type": "Aura",
-      "value": "Opposed"
+      "value": "Rose"
     },
     {
       "trait_type": "Eyes",

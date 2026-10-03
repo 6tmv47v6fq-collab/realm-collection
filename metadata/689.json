@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Auric"
+      "value": "Ossuary"
     },
     {
       "trait_type": "Geometry",
-      "value": "Flower"
+      "value": "None"
     },
     {
       "trait_type": "Stars",
@@ -26,15 +26,15 @@
     },
     {
       "trait_type": "Planets",
-      "value": "None"
+      "value": "Two"
     },
     {
       "trait_type": "UFOs",
-      "value": "None"
+      "value": "One"
     },
     {
       "trait_type": "Explosions",
-      "value": "None"
+      "value": "Barrage"
     },
     {
       "trait_type": "Lightning",
@@ -46,15 +46,15 @@
     },
     {
       "trait_type": "Dust",
-      "value": "Heavy"
+      "value": "Drifting"
     },
     {
       "trait_type": "Trees",
-      "value": "One"
+      "value": "Forest"
     },
     {
       "trait_type": "Mushrooms",
-      "value": "None"
+      "value": "Cluster"
     },
     {
       "trait_type": "Spores",
@@ -62,11 +62,11 @@
     },
     {
       "trait_type": "Aura",
-      "value": "Cold"
+      "value": "Acid"
     },
     {
       "trait_type": "Eyes",
-      "value": "Plain"
+      "value": "Painted"
     }
   ],
   "properties": {

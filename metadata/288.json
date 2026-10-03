@@ -18,19 +18,19 @@
     },
     {
       "trait_type": "Geometry",
-      "value": "Flower"
+      "value": "Weird"
     },
     {
       "trait_type": "Stars",
-      "value": "Sparse"
+      "value": "Field"
     },
     {
       "trait_type": "Planets",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
-      "value": "Fleet"
+      "value": "One"
     },
     {
       "trait_type": "Explosions",
@@ -38,11 +38,11 @@
     },
     {
       "trait_type": "Lightning",
-      "value": "None"
+      "value": "Strike"
     },
     {
       "trait_type": "Smoke",
-      "value": "None"
+      "value": "Shroud"
     },
     {
       "trait_type": "Dust",
@@ -58,15 +58,15 @@
     },
     {
       "trait_type": "Spores",
-      "value": "Golden"
+      "value": "Complementary"
     },
     {
       "trait_type": "Aura",
-      "value": "Opposed"
+      "value": "Rose"
     },
     {
       "trait_type": "Eyes",
-      "value": "Plain"
+      "value": "Painted"
     }
   ],
   "properties": {

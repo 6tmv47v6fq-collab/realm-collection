@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Regalia"
+      "value": "Verdant"
     },
     {
       "trait_type": "Geometry",
-      "value": "Yantra"
+      "value": "None"
     },
     {
       "trait_type": "Stars",
@@ -46,7 +46,7 @@
     },
     {
       "trait_type": "Dust",
-      "value": "Faint"
+      "value": "None"
     },
     {
       "trait_type": "Trees",
@@ -58,15 +58,15 @@
     },
     {
       "trait_type": "Spores",
-      "value": "Golden"
+      "value": "Complementary"
     },
     {
       "trait_type": "Aura",
-      "value": "Rose"
+      "value": "Cold"
     },
     {
       "trait_type": "Eyes",
-      "value": "Plain"
+      "value": "Ringed"
     }
   ],
   "properties": {

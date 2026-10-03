@@ -14,19 +14,19 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Furnace"
+      "value": "Ossuary"
     },
     {
       "trait_type": "Geometry",
-      "value": "Rays"
+      "value": "None"
     },
     {
       "trait_type": "Stars",
-      "value": "Field"
+      "value": "Sparse"
     },
     {
       "trait_type": "Planets",
-      "value": "One"
+      "value": "Two"
     },
     {
       "trait_type": "UFOs",
@@ -38,11 +38,11 @@
     },
     {
       "trait_type": "Lightning",
-      "value": "None"
+      "value": "Storm"
     },
     {
       "trait_type": "Smoke",
-      "value": "Shroud"
+      "value": "Rising"
     },
     {
       "trait_type": "Dust",
@@ -54,19 +54,19 @@
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Few"
+      "value": "Cluster"
     },
     {
       "trait_type": "Spores",
-      "value": "Golden"
+      "value": "Matching"
     },
     {
       "trait_type": "Aura",
-      "value": "Cold"
+      "value": "Opposed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Ringed"
+      "value": "Void"
     }
   ],
   "properties": {

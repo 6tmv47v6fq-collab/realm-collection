@@ -18,11 +18,11 @@
     },
     {
       "trait_type": "Geometry",
-      "value": "Rays"
+      "value": "Spiral"
     },
     {
       "trait_type": "Stars",
-      "value": "None"
+      "value": "Dense"
     },
     {
       "trait_type": "Planets",
@@ -42,11 +42,11 @@
     },
     {
       "trait_type": "Smoke",
-      "value": "None"
+      "value": "Rising"
     },
     {
       "trait_type": "Dust",
-      "value": "Faint"
+      "value": "Drifting"
     },
     {
       "trait_type": "Trees",
@@ -66,7 +66,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Void"
+      "value": "Starburst"
     }
   ],
   "properties": {

@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Regalia"
+      "value": "Eclipse"
     },
     {
       "trait_type": "Geometry",
-      "value": "Mandala"
+      "value": "Weird"
     },
     {
       "trait_type": "Stars",
@@ -38,11 +38,11 @@
     },
     {
       "trait_type": "Lightning",
-      "value": "Tempest"
+      "value": "None"
     },
     {
       "trait_type": "Smoke",
-      "value": "Wisp"
+      "value": "None"
     },
     {
       "trait_type": "Dust",
@@ -54,19 +54,19 @@
     },
     {
       "trait_type": "Mushrooms",
-      "value": "None"
+      "value": "Grove"
     },
     {
       "trait_type": "Spores",
-      "value": "Matching"
+      "value": "Complementary"
     },
     {
       "trait_type": "Aura",
-      "value": "Opposed"
+      "value": "Acid"
     },
     {
       "trait_type": "Eyes",
-      "value": "Slit"
+      "value": "Painted"
     }
   ],
   "properties": {

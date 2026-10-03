@@ -14,35 +14,35 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Bloom"
+      "value": "Ossuary"
     },
     {
       "trait_type": "Geometry",
-      "value": "Weird"
+      "value": "Mandala"
     },
     {
       "trait_type": "Stars",
-      "value": "Field"
+      "value": "Dense"
     },
     {
       "trait_type": "Planets",
-      "value": "Cluster"
+      "value": "Ringed"
     },
     {
       "trait_type": "UFOs",
-      "value": "Few"
+      "value": "None"
     },
     {
       "trait_type": "Explosions",
-      "value": "One"
+      "value": "Two"
     },
     {
       "trait_type": "Lightning",
-      "value": "Storm"
+      "value": "None"
     },
     {
       "trait_type": "Smoke",
-      "value": "Shroud"
+      "value": "Rising"
     },
     {
       "trait_type": "Dust",
@@ -54,7 +54,7 @@
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Grove"
+      "value": "Cluster"
     },
     {
       "trait_type": "Spores",
@@ -62,11 +62,11 @@
     },
     {
       "trait_type": "Aura",
-      "value": "Opposed"
+      "value": "Warm"
     },
     {
       "trait_type": "Eyes",
-      "value": "Slit"
+      "value": "Starburst"
     }
   ],
   "properties": {

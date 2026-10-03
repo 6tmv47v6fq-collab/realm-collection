@@ -14,23 +14,23 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Abyss"
+      "value": "Furnace"
     },
     {
       "trait_type": "Geometry",
-      "value": "Spiral"
+      "value": "None"
     },
     {
       "trait_type": "Stars",
-      "value": "Dense"
+      "value": "Field"
     },
     {
       "trait_type": "Planets",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "Explosions",
@@ -50,11 +50,11 @@
     },
     {
       "trait_type": "Trees",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Cluster"
+      "value": "None"
     },
     {
       "trait_type": "Spores",
@@ -62,11 +62,11 @@
     },
     {
       "trait_type": "Aura",
-      "value": "Acid"
+      "value": "Cold"
     },
     {
       "trait_type": "Eyes",
-      "value": "Ringed"
+      "value": "Plain"
     }
   ],
   "properties": {

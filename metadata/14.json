@@ -14,19 +14,19 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Auric"
+      "value": "Verdant"
     },
     {
       "trait_type": "Geometry",
-      "value": "Flower"
+      "value": "Weird"
     },
     {
       "trait_type": "Stars",
-      "value": "Field"
+      "value": "None"
     },
     {
       "trait_type": "Planets",
-      "value": "One"
+      "value": "Two"
     },
     {
       "trait_type": "UFOs",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Smoke",
-      "value": "Wisp"
+      "value": "Rising"
     },
     {
       "trait_type": "Dust",
@@ -50,7 +50,7 @@
     },
     {
       "trait_type": "Trees",
-      "value": "None"
+      "value": "One"
     },
     {
       "trait_type": "Mushrooms",
@@ -58,15 +58,15 @@
     },
     {
       "trait_type": "Spores",
-      "value": "Matching"
+      "value": "Complementary"
     },
     {
       "trait_type": "Aura",
-      "value": "Acid"
+      "value": "Cold"
     },
     {
       "trait_type": "Eyes",
-      "value": "Plain"
+      "value": "Painted"
     }
   ],
   "properties": {

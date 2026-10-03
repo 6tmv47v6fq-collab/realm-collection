@@ -14,19 +14,19 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Furnace"
+      "value": "Verdant"
     },
     {
       "trait_type": "Geometry",
-      "value": "Rosette"
+      "value": "Rays"
     },
     {
       "trait_type": "Stars",
-      "value": "Sparse"
+      "value": "Field"
     },
     {
       "trait_type": "Planets",
-      "value": "Two"
+      "value": "One"
     },
     {
       "trait_type": "UFOs",
@@ -42,11 +42,11 @@
     },
     {
       "trait_type": "Smoke",
-      "value": "Shroud"
+      "value": "None"
     },
     {
       "trait_type": "Dust",
-      "value": "Heavy"
+      "value": "Faint"
     },
     {
       "trait_type": "Trees",
@@ -54,19 +54,19 @@
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Few"
+      "value": "None"
     },
     {
       "trait_type": "Spores",
-      "value": "Opposed"
+      "value": "Golden"
     },
     {
       "trait_type": "Aura",
-      "value": "Opposed"
+      "value": "Cold"
     },
     {
       "trait_type": "Eyes",
-      "value": "Ringed"
+      "value": "Slit"
     }
   ],
   "properties": {

@@ -14,19 +14,19 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Regalia"
+      "value": "Verdant"
     },
     {
       "trait_type": "Geometry",
-      "value": "Spiral"
+      "value": "Yantra"
     },
     {
       "trait_type": "Stars",
-      "value": "Sparse"
+      "value": "Dense"
     },
     {
       "trait_type": "Planets",
-      "value": "Cluster"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
@@ -58,15 +58,15 @@
     },
     {
       "trait_type": "Spores",
-      "value": "Golden"
+      "value": "Complementary"
     },
     {
       "trait_type": "Aura",
-      "value": "Acid"
+      "value": "Cold"
     },
     {
       "trait_type": "Eyes",
-      "value": "Ringed"
+      "value": "Starburst"
     }
   ],
   "properties": {

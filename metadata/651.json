@@ -14,19 +14,19 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Regalia"
+      "value": "Eclipse"
     },
     {
       "trait_type": "Geometry",
-      "value": "Rosette"
+      "value": "Metatron"
     },
     {
       "trait_type": "Stars",
-      "value": "Field"
+      "value": "Sparse"
     },
     {
       "trait_type": "Planets",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
@@ -42,19 +42,19 @@
     },
     {
       "trait_type": "Smoke",
-      "value": "Shroud"
+      "value": "Rising"
     },
     {
       "trait_type": "Dust",
-      "value": "Drifting"
+      "value": "Heavy"
     },
     {
       "trait_type": "Trees",
-      "value": "Copse"
+      "value": "None"
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Few"
+      "value": "Grove"
     },
     {
       "trait_type": "Spores",
@@ -62,7 +62,7 @@
     },
     {
       "trait_type": "Aura",
-      "value": "Opposed"
+      "value": "Cold"
     },
     {
       "trait_type": "Eyes",

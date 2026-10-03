@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Auric"
+      "value": "Furnace"
     },
     {
       "trait_type": "Geometry",
-      "value": "Mandala"
+      "value": "Metatron"
     },
     {
       "trait_type": "Stars",
@@ -42,11 +42,11 @@
     },
     {
       "trait_type": "Smoke",
-      "value": "None"
+      "value": "Shroud"
     },
     {
       "trait_type": "Dust",
-      "value": "Faint"
+      "value": "None"
     },
     {
       "trait_type": "Trees",
@@ -54,11 +54,11 @@
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Cluster"
+      "value": "None"
     },
     {
       "trait_type": "Spores",
-      "value": "Matching"
+      "value": "Cold"
     },
     {
       "trait_type": "Aura",

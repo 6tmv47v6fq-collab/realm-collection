@@ -18,15 +18,15 @@
     },
     {
       "trait_type": "Geometry",
-      "value": "None"
+      "value": "Yantra"
     },
     {
       "trait_type": "Stars",
-      "value": "Sparse"
+      "value": "Field"
     },
     {
       "trait_type": "Planets",
-      "value": "Two"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
@@ -38,11 +38,11 @@
     },
     {
       "trait_type": "Lightning",
-      "value": "Storm"
+      "value": "Tempest"
     },
     {
       "trait_type": "Smoke",
-      "value": "Shroud"
+      "value": "Rising"
     },
     {
       "trait_type": "Dust",
@@ -50,15 +50,15 @@
     },
     {
       "trait_type": "Trees",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Few"
+      "value": "Grove"
     },
     {
       "trait_type": "Spores",
-      "value": "Cold"
+      "value": "Matching"
     },
     {
       "trait_type": "Aura",

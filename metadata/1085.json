@@ -14,15 +14,15 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Abyss"
+      "value": "Regalia"
     },
     {
       "trait_type": "Geometry",
-      "value": "Metatron"
+      "value": "Gatefold"
     },
     {
       "trait_type": "Stars",
-      "value": "None"
+      "value": "Sparse"
     },
     {
       "trait_type": "Planets",
@@ -42,11 +42,11 @@
     },
     {
       "trait_type": "Smoke",
-      "value": "None"
+      "value": "Shroud"
     },
     {
       "trait_type": "Dust",
-      "value": "None"
+      "value": "Faint"
     },
     {
       "trait_type": "Trees",
@@ -58,15 +58,15 @@
     },
     {
       "trait_type": "Spores",
-      "value": "Matching"
+      "value": "Complementary"
     },
     {
       "trait_type": "Aura",
-      "value": "Opposed"
+      "value": "Warm"
     },
     {
       "trait_type": "Eyes",
-      "value": "Ringed"
+      "value": "Plain"
     }
   ],
   "properties": {

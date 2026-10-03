@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Geometry",
-      "value": "Mandala"
+      "value": "Flower"
     },
     {
       "trait_type": "Stars",
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "Planets",
-      "value": "Two"
+      "value": "Ringed"
     },
     {
       "trait_type": "UFOs",
@@ -38,11 +38,11 @@
     },
     {
       "trait_type": "Lightning",
-      "value": "None"
+      "value": "Tempest"
     },
     {
       "trait_type": "Smoke",
-      "value": "Wisp"
+      "value": "None"
     },
     {
       "trait_type": "Dust",

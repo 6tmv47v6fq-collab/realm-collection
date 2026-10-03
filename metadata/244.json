@@ -14,23 +14,23 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Regalia"
+      "value": "Furnace"
     },
     {
       "trait_type": "Geometry",
-      "value": "Rosette"
+      "value": "Mandala"
     },
     {
       "trait_type": "Stars",
-      "value": "Sparse"
+      "value": "None"
     },
     {
       "trait_type": "Planets",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
-      "value": "None"
+      "value": "Few"
     },
     {
       "trait_type": "Explosions",
@@ -38,19 +38,19 @@
     },
     {
       "trait_type": "Lightning",
-      "value": "Strike"
+      "value": "None"
     },
     {
       "trait_type": "Smoke",
-      "value": "Rising"
+      "value": "None"
     },
     {
       "trait_type": "Dust",
-      "value": "Faint"
+      "value": "Heavy"
     },
     {
       "trait_type": "Trees",
-      "value": "None"
+      "value": "One"
     },
     {
       "trait_type": "Mushrooms",
@@ -58,11 +58,11 @@
     },
     {
       "trait_type": "Spores",
-      "value": "Golden"
+      "value": "Matching"
     },
     {
       "trait_type": "Aura",
-      "value": "Opposed"
+      "value": "Acid"
     },
     {
       "trait_type": "Eyes",

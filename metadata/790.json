@@ -14,23 +14,23 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Regalia"
+      "value": "Ossuary"
     },
     {
       "trait_type": "Geometry",
-      "value": "Weird"
+      "value": "Rosette"
     },
     {
       "trait_type": "Stars",
-      "value": "Field"
+      "value": "Dense"
     },
     {
       "trait_type": "Planets",
-      "value": "Two"
+      "value": "One"
     },
     {
       "trait_type": "UFOs",
-      "value": "None"
+      "value": "One"
     },
     {
       "trait_type": "Explosions",
@@ -38,11 +38,11 @@
     },
     {
       "trait_type": "Lightning",
-      "value": "None"
+      "value": "Strike"
     },
     {
       "trait_type": "Smoke",
-      "value": "Rising"
+      "value": "Wisp"
     },
     {
       "trait_type": "Dust",
@@ -54,19 +54,19 @@
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Few"
+      "value": "None"
     },
     {
       "trait_type": "Spores",
-      "value": "Complementary"
+      "value": "Matching"
     },
     {
       "trait_type": "Aura",
-      "value": "Warm"
+      "value": "Acid"
     },
     {
       "trait_type": "Eyes",
-      "value": "Plain"
+      "value": "Painted"
     }
   ],
   "properties": {

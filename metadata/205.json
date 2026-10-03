@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Furnace"
+      "value": "Verdant"
     },
     {
       "trait_type": "Geometry",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "UFOs",
-      "value": "None"
+      "value": "Few"
     },
     {
       "trait_type": "Explosions",
@@ -46,7 +46,7 @@
     },
     {
       "trait_type": "Dust",
-      "value": "Drifting"
+      "value": "Faint"
     },
     {
       "trait_type": "Trees",
@@ -62,11 +62,11 @@
     },
     {
       "trait_type": "Aura",
-      "value": "Acid"
+      "value": "Cold"
     },
     {
       "trait_type": "Eyes",
-      "value": "Ringed"
+      "value": "Plain"
     }
   ],
   "properties": {

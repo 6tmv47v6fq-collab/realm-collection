@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Geometry",
-      "value": "Lattice"
+      "value": "Weird"
     },
     {
       "trait_type": "Stars",
@@ -26,15 +26,15 @@
     },
     {
       "trait_type": "Planets",
-      "value": "None"
+      "value": "One"
     },
     {
       "trait_type": "UFOs",
-      "value": "None"
+      "value": "One"
     },
     {
       "trait_type": "Explosions",
-      "value": "Two"
+      "value": "None"
     },
     {
       "trait_type": "Lightning",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Smoke",
-      "value": "Rising"
+      "value": "None"
     },
     {
       "trait_type": "Dust",
@@ -54,19 +54,19 @@
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Cluster"
+      "value": "None"
     },
     {
       "trait_type": "Spores",
-      "value": "Complementary"
+      "value": "Golden"
     },
     {
       "trait_type": "Aura",
-      "value": "Cold"
+      "value": "Warm"
     },
     {
       "trait_type": "Eyes",
-      "value": "Spiral"
+      "value": "Painted"
     }
   ],
   "properties": {

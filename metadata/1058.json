@@ -14,15 +14,15 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Bloom"
+      "value": "Verdant"
     },
     {
       "trait_type": "Geometry",
-      "value": "Rosette"
+      "value": "Mandala"
     },
     {
       "trait_type": "Stars",
-      "value": "Field"
+      "value": "Dense"
     },
     {
       "trait_type": "Planets",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Explosions",
-      "value": "Barrage"
+      "value": "None"
     },
     {
       "trait_type": "Lightning",
@@ -42,19 +42,19 @@
     },
     {
       "trait_type": "Smoke",
-      "value": "Wisp"
+      "value": "None"
     },
     {
       "trait_type": "Dust",
-      "value": "Faint"
+      "value": "None"
     },
     {
       "trait_type": "Trees",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "Mushrooms",
-      "value": "None"
+      "value": "Few"
     },
     {
       "trait_type": "Spores",
@@ -62,7 +62,7 @@
     },
     {
       "trait_type": "Aura",
-      "value": "Cold"
+      "value": "Warm"
     },
     {
       "trait_type": "Eyes",

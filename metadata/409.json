@@ -14,15 +14,15 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Bloom"
+      "value": "Eclipse"
     },
     {
       "trait_type": "Geometry",
-      "value": "Flower"
+      "value": "Gatefold"
     },
     {
       "trait_type": "Stars",
-      "value": "Dense"
+      "value": "Field"
     },
     {
       "trait_type": "Planets",
@@ -34,15 +34,15 @@
     },
     {
       "trait_type": "Explosions",
-      "value": "One"
-    },
-    {
-      "trait_type": "Lightning",
       "value": "None"
     },
     {
+      "trait_type": "Lightning",
+      "value": "Tempest"
+    },
+    {
       "trait_type": "Smoke",
-      "value": "Rising"
+      "value": "None"
     },
     {
       "trait_type": "Dust",
@@ -50,23 +50,23 @@
     },
     {
       "trait_type": "Trees",
-      "value": "None"
+      "value": "Forest"
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Cluster"
+      "value": "None"
     },
     {
       "trait_type": "Spores",
-      "value": "Golden"
+      "value": "Complementary"
     },
     {
       "trait_type": "Aura",
-      "value": "Rose"
+      "value": "Opposed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Plain"
+      "value": "Spiral"
     }
   ],
   "properties": {

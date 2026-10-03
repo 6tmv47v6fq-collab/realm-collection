@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Verdant"
+      "value": "Regalia"
     },
     {
       "trait_type": "Geometry",
-      "value": "None"
+      "value": "Metatron"
     },
     {
       "trait_type": "Stars",
@@ -38,15 +38,15 @@
     },
     {
       "trait_type": "Lightning",
-      "value": "Storm"
+      "value": "None"
     },
     {
       "trait_type": "Smoke",
-      "value": "Shroud"
+      "value": "Wisp"
     },
     {
       "trait_type": "Dust",
-      "value": "None"
+      "value": "Faint"
     },
     {
       "trait_type": "Trees",
@@ -58,15 +58,15 @@
     },
     {
       "trait_type": "Spores",
-      "value": "Opposed"
+      "value": "Complementary"
     },
     {
       "trait_type": "Aura",
-      "value": "Warm"
+      "value": "Opposed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Starburst"
+      "value": "Slit"
     }
   ],
   "properties": {

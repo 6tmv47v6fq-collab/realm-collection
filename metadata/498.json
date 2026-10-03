@@ -14,23 +14,23 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Regalia"
+      "value": "Abyss"
     },
     {
       "trait_type": "Geometry",
-      "value": "Mandala"
+      "value": "None"
     },
     {
       "trait_type": "Stars",
-      "value": "Field"
+      "value": "None"
     },
     {
       "trait_type": "Planets",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "Explosions",
@@ -46,11 +46,11 @@
     },
     {
       "trait_type": "Dust",
-      "value": "Faint"
+      "value": "Heavy"
     },
     {
       "trait_type": "Trees",
-      "value": "Copse"
+      "value": "None"
     },
     {
       "trait_type": "Mushrooms",
@@ -58,7 +58,7 @@
     },
     {
       "trait_type": "Spores",
-      "value": "Complementary"
+      "value": "Golden"
     },
     {
       "trait_type": "Aura",
@@ -66,7 +66,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Ringed"
+      "value": "Slit"
     }
   ],
   "properties": {

@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Geometry",
-      "value": "Lattice"
+      "value": "Flower"
     },
     {
       "trait_type": "Stars",
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "Planets",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
@@ -42,11 +42,11 @@
     },
     {
       "trait_type": "Smoke",
-      "value": "Wisp"
+      "value": "None"
     },
     {
       "trait_type": "Dust",
-      "value": "Drifting"
+      "value": "Heavy"
     },
     {
       "trait_type": "Trees",
@@ -58,7 +58,7 @@
     },
     {
       "trait_type": "Spores",
-      "value": "Golden"
+      "value": "Complementary"
     },
     {
       "trait_type": "Aura",
@@ -66,7 +66,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Void"
+      "value": "Slit"
     }
   ],
   "properties": {

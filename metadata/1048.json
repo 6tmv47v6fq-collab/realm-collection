@@ -18,11 +18,11 @@
     },
     {
       "trait_type": "Geometry",
-      "value": "None"
+      "value": "Rays"
     },
     {
       "trait_type": "Stars",
-      "value": "Field"
+      "value": "Sparse"
     },
     {
       "trait_type": "Planets",
@@ -30,19 +30,19 @@
     },
     {
       "trait_type": "UFOs",
-      "value": "None"
+      "value": "Few"
     },
     {
       "trait_type": "Explosions",
-      "value": "None"
+      "value": "One"
     },
     {
       "trait_type": "Lightning",
-      "value": "None"
+      "value": "Strike"
     },
     {
       "trait_type": "Smoke",
-      "value": "None"
+      "value": "Wisp"
     },
     {
       "trait_type": "Dust",
@@ -58,15 +58,15 @@
     },
     {
       "trait_type": "Spores",
-      "value": "Complementary"
+      "value": "Matching"
     },
     {
       "trait_type": "Aura",
-      "value": "Cold"
+      "value": "Opposed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Ringed"
+      "value": "Slit"
     }
   ],
   "properties": {

@@ -18,23 +18,23 @@
     },
     {
       "trait_type": "Geometry",
-      "value": "Weird"
+      "value": "Flower"
     },
     {
       "trait_type": "Stars",
-      "value": "None"
+      "value": "Dense"
     },
     {
       "trait_type": "Planets",
-      "value": "Two"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "Explosions",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "Lightning",
@@ -50,7 +50,7 @@
     },
     {
       "trait_type": "Trees",
-      "value": "None"
+      "value": "One"
     },
     {
       "trait_type": "Mushrooms",
@@ -58,11 +58,11 @@
     },
     {
       "trait_type": "Spores",
-      "value": "Golden"
+      "value": "Matching"
     },
     {
       "trait_type": "Aura",
-      "value": "Acid"
+      "value": "Rose"
     },
     {
       "trait_type": "Eyes",

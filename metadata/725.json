@@ -14,19 +14,19 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Bloom"
+      "value": "Regalia"
     },
     {
       "trait_type": "Geometry",
-      "value": "None"
+      "value": "Spiral"
     },
     {
       "trait_type": "Stars",
-      "value": "Field"
+      "value": "Sparse"
     },
     {
       "trait_type": "Planets",
-      "value": "Cluster"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Smoke",
-      "value": "Wisp"
+      "value": "None"
     },
     {
       "trait_type": "Dust",
@@ -58,11 +58,11 @@
     },
     {
       "trait_type": "Spores",
-      "value": "Opposed"
+      "value": "Golden"
     },
     {
       "trait_type": "Aura",
-      "value": "Warm"
+      "value": "Opposed"
     },
     {
       "trait_type": "Eyes",

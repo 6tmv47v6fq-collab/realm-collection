@@ -14,15 +14,15 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Abyss"
+      "value": "Verdant"
     },
     {
       "trait_type": "Geometry",
-      "value": "None"
+      "value": "Rays"
     },
     {
       "trait_type": "Stars",
-      "value": "Sparse"
+      "value": "Field"
     },
     {
       "trait_type": "Planets",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Explosions",
-      "value": "None"
+      "value": "Two"
     },
     {
       "trait_type": "Lightning",
@@ -54,15 +54,15 @@
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Cluster"
+      "value": "Grove"
     },
     {
       "trait_type": "Spores",
-      "value": "Cold"
+      "value": "Opposed"
     },
     {
       "trait_type": "Aura",
-      "value": "Cold"
+      "value": "Opposed"
     },
     {
       "trait_type": "Eyes",

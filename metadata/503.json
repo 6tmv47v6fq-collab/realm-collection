@@ -14,19 +14,19 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Ossuary"
+      "value": "Verdant"
     },
     {
       "trait_type": "Geometry",
-      "value": "Rosette"
+      "value": "Flower"
     },
     {
       "trait_type": "Stars",
-      "value": "Field"
+      "value": "Sparse"
     },
     {
       "trait_type": "Planets",
-      "value": "None"
+      "value": "One"
     },
     {
       "trait_type": "UFOs",
@@ -54,19 +54,19 @@
     },
     {
       "trait_type": "Mushrooms",
-      "value": "None"
+      "value": "Grove"
     },
     {
       "trait_type": "Spores",
-      "value": "Matching"
+      "value": "Complementary"
     },
     {
       "trait_type": "Aura",
-      "value": "Rose"
+      "value": "Warm"
     },
     {
       "trait_type": "Eyes",
-      "value": "Plain"
+      "value": "Slit"
     }
   ],
   "properties": {

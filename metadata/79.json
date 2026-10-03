@@ -14,23 +14,23 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Bloom"
+      "value": "Ossuary"
     },
     {
       "trait_type": "Geometry",
-      "value": "Weird"
+      "value": "Metatron"
     },
     {
       "trait_type": "Stars",
-      "value": "Dense"
+      "value": "Sparse"
     },
     {
       "trait_type": "Planets",
-      "value": "None"
+      "value": "Ringed"
     },
     {
       "trait_type": "UFOs",
-      "value": "None"
+      "value": "Few"
     },
     {
       "trait_type": "Explosions",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Smoke",
-      "value": "Wisp"
+      "value": "Rising"
     },
     {
       "trait_type": "Dust",
@@ -54,7 +54,7 @@
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Grove"
+      "value": "None"
     },
     {
       "trait_type": "Spores",
@@ -62,11 +62,11 @@
     },
     {
       "trait_type": "Aura",
-      "value": "Cold"
+      "value": "Warm"
     },
     {
       "trait_type": "Eyes",
-      "value": "Starburst"
+      "value": "Plain"
     }
   ],
   "properties": {

@@ -14,19 +14,19 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Verdant"
+      "value": "Auric"
     },
     {
       "trait_type": "Geometry",
-      "value": "Yantra"
+      "value": "Spiral"
     },
     {
       "trait_type": "Stars",
-      "value": "Field"
+      "value": "Dense"
     },
     {
       "trait_type": "Planets",
-      "value": "None"
+      "value": "One"
     },
     {
       "trait_type": "UFOs",
@@ -38,19 +38,19 @@
     },
     {
       "trait_type": "Lightning",
-      "value": "Tempest"
+      "value": "Strike"
     },
     {
       "trait_type": "Smoke",
-      "value": "Rising"
+      "value": "None"
     },
     {
       "trait_type": "Dust",
-      "value": "None"
+      "value": "Faint"
     },
     {
       "trait_type": "Trees",
-      "value": "None"
+      "value": "One"
     },
     {
       "trait_type": "Mushrooms",
@@ -58,7 +58,7 @@
     },
     {
       "trait_type": "Spores",
-      "value": "Opposed"
+      "value": "Matching"
     },
     {
       "trait_type": "Aura",

@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Abyss"
+      "value": "Eclipse"
     },
     {
       "trait_type": "Geometry",
-      "value": "Mandala"
+      "value": "Lattice"
     },
     {
       "trait_type": "Stars",
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "Planets",
-      "value": "One"
+      "value": "Ringed"
     },
     {
       "trait_type": "UFOs",
@@ -46,7 +46,7 @@
     },
     {
       "trait_type": "Dust",
-      "value": "Faint"
+      "value": "None"
     },
     {
       "trait_type": "Trees",
@@ -54,7 +54,7 @@
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Few"
+      "value": "None"
     },
     {
       "trait_type": "Spores",
@@ -62,11 +62,11 @@
     },
     {
       "trait_type": "Aura",
-      "value": "Cold"
+      "value": "Acid"
     },
     {
       "trait_type": "Eyes",
-      "value": "Void"
+      "value": "Painted"
     }
   ],
   "properties": {

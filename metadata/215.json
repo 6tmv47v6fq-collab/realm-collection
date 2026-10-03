@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Furnace"
+      "value": "Regalia"
     },
     {
       "trait_type": "Geometry",
@@ -22,7 +22,7 @@
     },
     {
       "trait_type": "Stars",
-      "value": "Dense"
+      "value": "Sparse"
     },
     {
       "trait_type": "Planets",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Explosions",
-      "value": "None"
+      "value": "Two"
     },
     {
       "trait_type": "Lightning",
@@ -42,11 +42,11 @@
     },
     {
       "trait_type": "Smoke",
-      "value": "None"
+      "value": "Rising"
     },
     {
       "trait_type": "Dust",
-      "value": "None"
+      "value": "Faint"
     },
     {
       "trait_type": "Trees",
@@ -58,15 +58,15 @@
     },
     {
       "trait_type": "Spores",
-      "value": "Golden"
+      "value": "Complementary"
     },
     {
       "trait_type": "Aura",
-      "value": "Warm"
+      "value": "Cold"
     },
     {
       "trait_type": "Eyes",
-      "value": "Ringed"
+      "value": "Plain"
     }
   ],
   "properties": {

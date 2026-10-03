@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Geometry",
-      "value": "Gatefold"
+      "value": "Flower"
     },
     {
       "trait_type": "Stars",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "UFOs",
-      "value": "None"
+      "value": "One"
     },
     {
       "trait_type": "Explosions",
@@ -38,11 +38,11 @@
     },
     {
       "trait_type": "Lightning",
-      "value": "None"
+      "value": "Tempest"
     },
     {
       "trait_type": "Smoke",
-      "value": "Shroud"
+      "value": "Wisp"
     },
     {
       "trait_type": "Dust",
@@ -54,19 +54,19 @@
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Few"
+      "value": "Cluster"
     },
     {
       "trait_type": "Spores",
-      "value": "Matching"
+      "value": "Golden"
     },
     {
       "trait_type": "Aura",
-      "value": "Rose"
+      "value": "Warm"
     },
     {
       "trait_type": "Eyes",
-      "value": "Plain"
+      "value": "Starburst"
     }
   ],
   "properties": {

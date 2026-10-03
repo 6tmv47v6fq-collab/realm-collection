@@ -18,15 +18,15 @@
     },
     {
       "trait_type": "Geometry",
-      "value": "Weird"
+      "value": "None"
     },
     {
       "trait_type": "Stars",
-      "value": "Dense"
+      "value": "Field"
     },
     {
       "trait_type": "Planets",
-      "value": "Two"
+      "value": "One"
     },
     {
       "trait_type": "UFOs",
@@ -42,15 +42,15 @@
     },
     {
       "trait_type": "Smoke",
-      "value": "Rising"
+      "value": "Shroud"
     },
     {
       "trait_type": "Dust",
-      "value": "Heavy"
+      "value": "Drifting"
     },
     {
       "trait_type": "Trees",
-      "value": "None"
+      "value": "Forest"
     },
     {
       "trait_type": "Mushrooms",
@@ -58,15 +58,15 @@
     },
     {
       "trait_type": "Spores",
-      "value": "Matching"
+      "value": "Complementary"
     },
     {
       "trait_type": "Aura",
-      "value": "Opposed"
+      "value": "Acid"
     },
     {
       "trait_type": "Eyes",
-      "value": "Plain"
+      "value": "Starburst"
     }
   ],
   "properties": {

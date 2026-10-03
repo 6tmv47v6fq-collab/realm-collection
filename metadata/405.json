@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Abyss"
+      "value": "Auric"
     },
     {
       "trait_type": "Geometry",
-      "value": "Spiral"
+      "value": "None"
     },
     {
       "trait_type": "Stars",
@@ -46,7 +46,7 @@
     },
     {
       "trait_type": "Dust",
-      "value": "Faint"
+      "value": "None"
     },
     {
       "trait_type": "Trees",
@@ -54,11 +54,11 @@
     },
     {
       "trait_type": "Mushrooms",
-      "value": "None"
+      "value": "Few"
     },
     {
       "trait_type": "Spores",
-      "value": "Matching"
+      "value": "Cold"
     },
     {
       "trait_type": "Aura",

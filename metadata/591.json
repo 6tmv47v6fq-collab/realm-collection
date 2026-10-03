@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Regalia"
+      "value": "Ossuary"
     },
     {
       "trait_type": "Geometry",
@@ -22,19 +22,19 @@
     },
     {
       "trait_type": "Stars",
-      "value": "Sparse"
+      "value": "None"
     },
     {
       "trait_type": "Planets",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
-      "value": "None"
+      "value": "Few"
     },
     {
       "trait_type": "Explosions",
-      "value": "None"
+      "value": "Two"
     },
     {
       "trait_type": "Lightning",
@@ -42,11 +42,11 @@
     },
     {
       "trait_type": "Smoke",
-      "value": "None"
+      "value": "Rising"
     },
     {
       "trait_type": "Dust",
-      "value": "Drifting"
+      "value": "None"
     },
     {
       "trait_type": "Trees",
@@ -62,11 +62,11 @@
     },
     {
       "trait_type": "Aura",
-      "value": "Cold"
+      "value": "Opposed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Plain"
+      "value": "Ringed"
     }
   ],
   "properties": {

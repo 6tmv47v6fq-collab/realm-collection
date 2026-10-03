@@ -22,7 +22,7 @@
     },
     {
       "trait_type": "Stars",
-      "value": "Field"
+      "value": "None"
     },
     {
       "trait_type": "Planets",
@@ -38,11 +38,11 @@
     },
     {
       "trait_type": "Lightning",
-      "value": "Strike"
+      "value": "None"
     },
     {
       "trait_type": "Smoke",
-      "value": "Wisp"
+      "value": "None"
     },
     {
       "trait_type": "Dust",
@@ -50,23 +50,23 @@
     },
     {
       "trait_type": "Trees",
-      "value": "One"
-    },
-    {
-      "trait_type": "Mushrooms",
       "value": "None"
     },
     {
+      "trait_type": "Mushrooms",
+      "value": "Grove"
+    },
+    {
       "trait_type": "Spores",
-      "value": "Opposed"
+      "value": "Golden"
     },
     {
       "trait_type": "Aura",
-      "value": "Cold"
+      "value": "Opposed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Plain"
+      "value": "Starburst"
     }
   ],
   "properties": {

@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Abyss"
+      "value": "Furnace"
     },
     {
       "trait_type": "Geometry",
-      "value": "Mandala"
+      "value": "Weird"
     },
     {
       "trait_type": "Stars",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Explosions",
-      "value": "None"
+      "value": "Two"
     },
     {
       "trait_type": "Lightning",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Smoke",
-      "value": "Wisp"
+      "value": "None"
     },
     {
       "trait_type": "Dust",
@@ -62,11 +62,11 @@
     },
     {
       "trait_type": "Aura",
-      "value": "Opposed"
+      "value": "Acid"
     },
     {
       "trait_type": "Eyes",
-      "value": "Slit"
+      "value": "Plain"
     }
   ],
   "properties": {

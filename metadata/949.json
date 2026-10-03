@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Regalia"
+      "value": "Furnace"
     },
     {
       "trait_type": "Geometry",
-      "value": "Flower"
+      "value": "Rosette"
     },
     {
       "trait_type": "Stars",
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "Planets",
-      "value": "None"
+      "value": "One"
     },
     {
       "trait_type": "UFOs",
@@ -42,15 +42,15 @@
     },
     {
       "trait_type": "Smoke",
-      "value": "Wisp"
+      "value": "None"
     },
     {
       "trait_type": "Dust",
-      "value": "Heavy"
+      "value": "None"
     },
     {
       "trait_type": "Trees",
-      "value": "Copse"
+      "value": "One"
     },
     {
       "trait_type": "Mushrooms",
@@ -58,15 +58,15 @@
     },
     {
       "trait_type": "Spores",
-      "value": "Matching"
+      "value": "Complementary"
     },
     {
       "trait_type": "Aura",
-      "value": "Rose"
+      "value": "Acid"
     },
     {
       "trait_type": "Eyes",
-      "value": "Slit"
+      "value": "Ringed"
     }
   ],
   "properties": {

@@ -14,15 +14,15 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Furnace"
+      "value": "Auric"
     },
     {
       "trait_type": "Geometry",
-      "value": "Lattice"
+      "value": "Mandala"
     },
     {
       "trait_type": "Stars",
-      "value": "Field"
+      "value": "Sparse"
     },
     {
       "trait_type": "Planets",
@@ -38,15 +38,15 @@
     },
     {
       "trait_type": "Lightning",
-      "value": "None"
+      "value": "Storm"
     },
     {
       "trait_type": "Smoke",
-      "value": "Wisp"
+      "value": "Rising"
     },
     {
       "trait_type": "Dust",
-      "value": "Heavy"
+      "value": "Faint"
     },
     {
       "trait_type": "Trees",
@@ -54,7 +54,7 @@
     },
     {
       "trait_type": "Mushrooms",
-      "value": "None"
+      "value": "Few"
     },
     {
       "trait_type": "Spores",
@@ -62,11 +62,11 @@
     },
     {
       "trait_type": "Aura",
-      "value": "Opposed"
+      "value": "Acid"
     },
     {
       "trait_type": "Eyes",
-      "value": "Ringed"
+      "value": "Slit"
     }
   ],
   "properties": {

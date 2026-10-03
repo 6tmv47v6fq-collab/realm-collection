@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Geometry",
-      "value": "Metatron"
+      "value": "Gatefold"
     },
     {
       "trait_type": "Stars",
@@ -30,11 +30,11 @@
     },
     {
       "trait_type": "UFOs",
-      "value": "Few"
+      "value": "Fleet"
     },
     {
       "trait_type": "Explosions",
-      "value": "None"
+      "value": "Barrage"
     },
     {
       "trait_type": "Lightning",
@@ -54,11 +54,11 @@
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Few"
+      "value": "None"
     },
     {
       "trait_type": "Spores",
-      "value": "Cold"
+      "value": "Matching"
     },
     {
       "trait_type": "Aura",
@@ -66,7 +66,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Plain"
+      "value": "Painted"
     }
   ],
   "properties": {

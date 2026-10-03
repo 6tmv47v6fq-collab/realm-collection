@@ -14,23 +14,23 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Furnace"
+      "value": "Regalia"
     },
     {
       "trait_type": "Geometry",
-      "value": "Flower"
+      "value": "Mandala"
     },
     {
       "trait_type": "Stars",
-      "value": "None"
+      "value": "Field"
     },
     {
       "trait_type": "Planets",
-      "value": "None"
+      "value": "Ringed"
     },
     {
       "trait_type": "UFOs",
-      "value": "None"
+      "value": "Few"
     },
     {
       "trait_type": "Explosions",
@@ -46,7 +46,7 @@
     },
     {
       "trait_type": "Dust",
-      "value": "Heavy"
+      "value": "Faint"
     },
     {
       "trait_type": "Trees",
@@ -62,7 +62,7 @@
     },
     {
       "trait_type": "Aura",
-      "value": "Rose"
+      "value": "Warm"
     },
     {
       "trait_type": "Eyes",

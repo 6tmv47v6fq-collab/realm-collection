@@ -18,15 +18,15 @@
     },
     {
       "trait_type": "Geometry",
-      "value": "Metatron"
+      "value": "Flower"
     },
     {
       "trait_type": "Stars",
-      "value": "Sparse"
+      "value": "Dense"
     },
     {
       "trait_type": "Planets",
-      "value": "None"
+      "value": "Two"
     },
     {
       "trait_type": "UFOs",
@@ -50,15 +50,15 @@
     },
     {
       "trait_type": "Trees",
-      "value": "Copse"
-    },
-    {
-      "trait_type": "Mushrooms",
       "value": "None"
     },
     {
+      "trait_type": "Mushrooms",
+      "value": "Cluster"
+    },
+    {
       "trait_type": "Spores",
-      "value": "Golden"
+      "value": "Opposed"
     },
     {
       "trait_type": "Aura",
@@ -66,7 +66,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Starburst"
+      "value": "Ringed"
     }
   ],
   "properties": {

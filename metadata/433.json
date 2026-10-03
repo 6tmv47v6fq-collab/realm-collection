@@ -14,15 +14,15 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Furnace"
+      "value": "Auric"
     },
     {
       "trait_type": "Geometry",
-      "value": "Gatefold"
+      "value": "None"
     },
     {
       "trait_type": "Stars",
-      "value": "Dense"
+      "value": "Sparse"
     },
     {
       "trait_type": "Planets",
@@ -30,15 +30,15 @@
     },
     {
       "trait_type": "UFOs",
-      "value": "Fleet"
+      "value": "None"
     },
     {
       "trait_type": "Explosions",
-      "value": "Barrage"
+      "value": "Two"
     },
     {
       "trait_type": "Lightning",
-      "value": "None"
+      "value": "Strike"
     },
     {
       "trait_type": "Smoke",
@@ -46,27 +46,27 @@
     },
     {
       "trait_type": "Dust",
-      "value": "Faint"
+      "value": "None"
     },
     {
       "trait_type": "Trees",
-      "value": "Forest"
+      "value": "None"
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Grove"
+      "value": "Cluster"
     },
     {
       "trait_type": "Spores",
-      "value": "Opposed"
+      "value": "Matching"
     },
     {
       "trait_type": "Aura",
-      "value": "Opposed"
+      "value": "Rose"
     },
     {
       "trait_type": "Eyes",
-      "value": "Slit"
+      "value": "Painted"
     }
   ],
   "properties": {

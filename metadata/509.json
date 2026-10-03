@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Verdant"
+      "value": "Auric"
     },
     {
       "trait_type": "Geometry",
-      "value": "Lattice"
+      "value": "Weird"
     },
     {
       "trait_type": "Stars",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Explosions",
-      "value": "None"
+      "value": "Barrage"
     },
     {
       "trait_type": "Lightning",
@@ -42,31 +42,31 @@
     },
     {
       "trait_type": "Smoke",
-      "value": "Rising"
+      "value": "None"
     },
     {
       "trait_type": "Dust",
-      "value": "Faint"
+      "value": "None"
     },
     {
       "trait_type": "Trees",
-      "value": "None"
+      "value": "One"
     },
     {
       "trait_type": "Mushrooms",
-      "value": "None"
+      "value": "Few"
     },
     {
       "trait_type": "Spores",
-      "value": "Complementary"
+      "value": "Matching"
     },
     {
       "trait_type": "Aura",
-      "value": "Rose"
+      "value": "Opposed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Void"
+      "value": "Painted"
     }
   ],
   "properties": {

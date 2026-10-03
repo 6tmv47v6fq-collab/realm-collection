@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Furnace"
+      "value": "Verdant"
     },
     {
       "trait_type": "Geometry",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "UFOs",
-      "value": "None"
+      "value": "Few"
     },
     {
       "trait_type": "Explosions",
@@ -38,7 +38,7 @@
     },
     {
       "trait_type": "Lightning",
-      "value": "Tempest"
+      "value": "Storm"
     },
     {
       "trait_type": "Smoke",
@@ -50,7 +50,7 @@
     },
     {
       "trait_type": "Trees",
-      "value": "One"
+      "value": "Forest"
     },
     {
       "trait_type": "Mushrooms",
@@ -58,11 +58,11 @@
     },
     {
       "trait_type": "Spores",
-      "value": "Complementary"
+      "value": "Cold"
     },
     {
       "trait_type": "Aura",
-      "value": "Cold"
+      "value": "Warm"
     },
     {
       "trait_type": "Eyes",

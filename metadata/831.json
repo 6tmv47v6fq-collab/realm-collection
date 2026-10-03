@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Eclipse"
+      "value": "Abyss"
     },
     {
       "trait_type": "Geometry",
-      "value": "Flower"
+      "value": "Gatefold"
     },
     {
       "trait_type": "Stars",
@@ -26,15 +26,15 @@
     },
     {
       "trait_type": "Planets",
-      "value": "None"
+      "value": "One"
     },
     {
       "trait_type": "UFOs",
-      "value": "Fleet"
+      "value": "None"
     },
     {
       "trait_type": "Explosions",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "Lightning",
@@ -42,11 +42,11 @@
     },
     {
       "trait_type": "Smoke",
-      "value": "Rising"
+      "value": "Wisp"
     },
     {
       "trait_type": "Dust",
-      "value": "None"
+      "value": "Faint"
     },
     {
       "trait_type": "Trees",
@@ -58,7 +58,7 @@
     },
     {
       "trait_type": "Spores",
-      "value": "Cold"
+      "value": "Golden"
     },
     {
       "trait_type": "Aura",
@@ -66,7 +66,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Plain"
+      "value": "Slit"
     }
   ],
   "properties": {

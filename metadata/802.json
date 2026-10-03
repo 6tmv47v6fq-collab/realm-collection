@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Furnace"
+      "value": "Auric"
     },
     {
       "trait_type": "Geometry",
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "Planets",
-      "value": "None"
+      "value": "Ringed"
     },
     {
       "trait_type": "UFOs",
@@ -34,7 +34,7 @@
     },
     {
       "trait_type": "Explosions",
-      "value": "Two"
+      "value": "None"
     },
     {
       "trait_type": "Lightning",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Smoke",
-      "value": "Wisp"
+      "value": "Shroud"
     },
     {
       "trait_type": "Dust",
@@ -50,23 +50,23 @@
     },
     {
       "trait_type": "Trees",
-      "value": "Copse"
-    },
-    {
-      "trait_type": "Mushrooms",
       "value": "None"
     },
     {
+      "trait_type": "Mushrooms",
+      "value": "Few"
+    },
+    {
       "trait_type": "Spores",
-      "value": "Golden"
+      "value": "Complementary"
     },
     {
       "trait_type": "Aura",
-      "value": "Rose"
+      "value": "Warm"
     },
     {
       "trait_type": "Eyes",
-      "value": "Slit"
+      "value": "Painted"
     }
   ],
   "properties": {

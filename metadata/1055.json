@@ -14,19 +14,19 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Auric"
+      "value": "Furnace"
     },
     {
       "trait_type": "Geometry",
-      "value": "Rays"
+      "value": "None"
     },
     {
       "trait_type": "Stars",
-      "value": "Field"
+      "value": "Sparse"
     },
     {
       "trait_type": "Planets",
-      "value": "Cluster"
+      "value": "One"
     },
     {
       "trait_type": "UFOs",
@@ -42,11 +42,11 @@
     },
     {
       "trait_type": "Smoke",
-      "value": "Rising"
+      "value": "Wisp"
     },
     {
       "trait_type": "Dust",
-      "value": "None"
+      "value": "Faint"
     },
     {
       "trait_type": "Trees",
@@ -58,15 +58,15 @@
     },
     {
       "trait_type": "Spores",
-      "value": "Complementary"
+      "value": "Matching"
     },
     {
       "trait_type": "Aura",
-      "value": "Cold"
+      "value": "Acid"
     },
     {
       "trait_type": "Eyes",
-      "value": "Slit"
+      "value": "Ringed"
     }
   ],
   "properties": {

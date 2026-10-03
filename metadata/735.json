@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Regalia"
+      "value": "Verdant"
     },
     {
       "trait_type": "Geometry",
@@ -22,11 +22,11 @@
     },
     {
       "trait_type": "Stars",
-      "value": "Field"
+      "value": "None"
     },
     {
       "trait_type": "Planets",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
@@ -50,7 +50,7 @@
     },
     {
       "trait_type": "Trees",
-      "value": "Copse"
+      "value": "None"
     },
     {
       "trait_type": "Mushrooms",
@@ -58,15 +58,15 @@
     },
     {
       "trait_type": "Spores",
-      "value": "Cold"
+      "value": "Complementary"
     },
     {
       "trait_type": "Aura",
-      "value": "Acid"
+      "value": "Warm"
     },
     {
       "trait_type": "Eyes",
-      "value": "Spiral"
+      "value": "Ringed"
     }
   ],
   "properties": {

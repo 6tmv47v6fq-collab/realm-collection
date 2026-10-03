@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Bloom"
+      "value": "Furnace"
     },
     {
       "trait_type": "Geometry",
-      "value": "Yantra"
+      "value": "Mandala"
     },
     {
       "trait_type": "Stars",
@@ -46,7 +46,7 @@
     },
     {
       "trait_type": "Dust",
-      "value": "Faint"
+      "value": "None"
     },
     {
       "trait_type": "Trees",
@@ -54,19 +54,19 @@
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Few"
+      "value": "Cluster"
     },
     {
       "trait_type": "Spores",
-      "value": "Complementary"
+      "value": "Golden"
     },
     {
       "trait_type": "Aura",
-      "value": "Acid"
+      "value": "Opposed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Spiral"
+      "value": "Painted"
     }
   ],
   "properties": {

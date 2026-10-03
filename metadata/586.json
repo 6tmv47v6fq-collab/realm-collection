@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Verdant"
+      "value": "Furnace"
     },
     {
       "trait_type": "Geometry",
-      "value": "Rosette"
+      "value": "Gatefold"
     },
     {
       "trait_type": "Stars",
@@ -26,15 +26,15 @@
     },
     {
       "trait_type": "Planets",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
-      "value": "Few"
+      "value": "None"
     },
     {
       "trait_type": "Explosions",
-      "value": "None"
+      "value": "One"
     },
     {
       "trait_type": "Lightning",
@@ -54,19 +54,19 @@
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Cluster"
+      "value": "None"
     },
     {
       "trait_type": "Spores",
-      "value": "Matching"
+      "value": "Complementary"
     },
     {
       "trait_type": "Aura",
-      "value": "Opposed"
+      "value": "Cold"
     },
     {
       "trait_type": "Eyes",
-      "value": "Void"
+      "value": "Painted"
     }
   ],
   "properties": {

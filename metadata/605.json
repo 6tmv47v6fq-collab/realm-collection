@@ -14,15 +14,15 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Eclipse"
+      "value": "Verdant"
     },
     {
       "trait_type": "Geometry",
-      "value": "Spiral"
+      "value": "Weird"
     },
     {
       "trait_type": "Stars",
-      "value": "Sparse"
+      "value": "Dense"
     },
     {
       "trait_type": "Planets",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "UFOs",
-      "value": "Few"
+      "value": "Fleet"
     },
     {
       "trait_type": "Explosions",
@@ -38,7 +38,7 @@
     },
     {
       "trait_type": "Lightning",
-      "value": "Storm"
+      "value": "Tempest"
     },
     {
       "trait_type": "Smoke",
@@ -54,19 +54,19 @@
     },
     {
       "trait_type": "Mushrooms",
-      "value": "None"
+      "value": "Few"
     },
     {
       "trait_type": "Spores",
-      "value": "Opposed"
+      "value": "Matching"
     },
     {
       "trait_type": "Aura",
-      "value": "Acid"
+      "value": "Opposed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Ringed"
+      "value": "Starburst"
     }
   ],
   "properties": {

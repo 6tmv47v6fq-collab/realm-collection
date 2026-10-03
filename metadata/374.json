@@ -14,15 +14,15 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Regalia"
+      "value": "Bloom"
     },
     {
       "trait_type": "Geometry",
-      "value": "Flower"
+      "value": "None"
     },
     {
       "trait_type": "Stars",
-      "value": "Field"
+      "value": "None"
     },
     {
       "trait_type": "Planets",
@@ -34,19 +34,19 @@
     },
     {
       "trait_type": "Explosions",
-      "value": "None"
+      "value": "One"
     },
     {
       "trait_type": "Lightning",
-      "value": "Strike"
+      "value": "None"
     },
     {
       "trait_type": "Smoke",
-      "value": "Wisp"
+      "value": "Rising"
     },
     {
       "trait_type": "Dust",
-      "value": "Drifting"
+      "value": "None"
     },
     {
       "trait_type": "Trees",
@@ -54,15 +54,15 @@
     },
     {
       "trait_type": "Mushrooms",
-      "value": "None"
+      "value": "Few"
     },
     {
       "trait_type": "Spores",
-      "value": "Matching"
+      "value": "Opposed"
     },
     {
       "trait_type": "Aura",
-      "value": "Acid"
+      "value": "Cold"
     },
     {
       "trait_type": "Eyes",

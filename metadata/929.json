@@ -30,19 +30,19 @@
     },
     {
       "trait_type": "UFOs",
-      "value": "One"
+      "value": "Few"
     },
     {
       "trait_type": "Explosions",
-      "value": "Two"
+      "value": "Barrage"
     },
     {
       "trait_type": "Lightning",
-      "value": "Strike"
+      "value": "Storm"
     },
     {
       "trait_type": "Smoke",
-      "value": "Rising"
+      "value": "None"
     },
     {
       "trait_type": "Dust",
@@ -50,11 +50,11 @@
     },
     {
       "trait_type": "Trees",
-      "value": "Forest"
+      "value": "None"
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Grove"
+      "value": "Cluster"
     },
     {
       "trait_type": "Spores",
@@ -62,7 +62,7 @@
     },
     {
       "trait_type": "Aura",
-      "value": "Rose"
+      "value": "Cold"
     },
     {
       "trait_type": "Eyes",

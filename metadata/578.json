@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Ossuary"
+      "value": "Auric"
     },
     {
       "trait_type": "Geometry",
-      "value": "None"
+      "value": "Rosette"
     },
     {
       "trait_type": "Stars",
@@ -26,19 +26,19 @@
     },
     {
       "trait_type": "Planets",
-      "value": "None"
+      "value": "Two"
     },
     {
       "trait_type": "UFOs",
-      "value": "None"
+      "value": "One"
     },
     {
       "trait_type": "Explosions",
-      "value": "None"
+      "value": "Two"
     },
     {
       "trait_type": "Lightning",
-      "value": "None"
+      "value": "Strike"
     },
     {
       "trait_type": "Smoke",
@@ -46,7 +46,7 @@
     },
     {
       "trait_type": "Dust",
-      "value": "Heavy"
+      "value": "Drifting"
     },
     {
       "trait_type": "Trees",
@@ -62,11 +62,11 @@
     },
     {
       "trait_type": "Aura",
-      "value": "Cold"
+      "value": "Rose"
     },
     {
       "trait_type": "Eyes",
-      "value": "Starburst"
+      "value": "Painted"
     }
   ],
   "properties": {

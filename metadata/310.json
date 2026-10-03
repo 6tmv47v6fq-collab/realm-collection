@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Ossuary"
+      "value": "Furnace"
     },
     {
       "trait_type": "Geometry",
-      "value": "Weird"
+      "value": "Gatefold"
     },
     {
       "trait_type": "Stars",
@@ -34,11 +34,11 @@
     },
     {
       "trait_type": "Explosions",
-      "value": "One"
+      "value": "Barrage"
     },
     {
       "trait_type": "Lightning",
-      "value": "Storm"
+      "value": "Tempest"
     },
     {
       "trait_type": "Smoke",
@@ -46,7 +46,7 @@
     },
     {
       "trait_type": "Dust",
-      "value": "Drifting"
+      "value": "Faint"
     },
     {
       "trait_type": "Trees",
@@ -54,11 +54,11 @@
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Cluster"
+      "value": "Grove"
     },
     {
       "trait_type": "Spores",
-      "value": "Opposed"
+      "value": "Complementary"
     },
     {
       "trait_type": "Aura",
@@ -66,7 +66,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Starburst"
+      "value": "Ringed"
     }
   ],
   "properties": {

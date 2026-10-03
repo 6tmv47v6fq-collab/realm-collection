@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Bloom"
+      "value": "Eclipse"
     },
     {
       "trait_type": "Geometry",
-      "value": "Flower"
+      "value": "Gatefold"
     },
     {
       "trait_type": "Stars",
@@ -30,15 +30,15 @@
     },
     {
       "trait_type": "UFOs",
-      "value": "None"
+      "value": "Fleet"
     },
     {
       "trait_type": "Explosions",
-      "value": "None"
+      "value": "Barrage"
     },
     {
       "trait_type": "Lightning",
-      "value": "Storm"
+      "value": "Strike"
     },
     {
       "trait_type": "Smoke",
@@ -46,11 +46,11 @@
     },
     {
       "trait_type": "Dust",
-      "value": "Faint"
+      "value": "Drifting"
     },
     {
       "trait_type": "Trees",
-      "value": "Copse"
+      "value": "None"
     },
     {
       "trait_type": "Mushrooms",
@@ -62,7 +62,7 @@
     },
     {
       "trait_type": "Aura",
-      "value": "Opposed"
+      "value": "Warm"
     },
     {
       "trait_type": "Eyes",

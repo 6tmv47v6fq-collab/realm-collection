@@ -14,11 +14,11 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Eclipse"
+      "value": "Ichor"
     },
     {
       "trait_type": "Geometry",
-      "value": "Mandala"
+      "value": "Weird"
     },
     {
       "trait_type": "Stars",
@@ -26,23 +26,23 @@
     },
     {
       "trait_type": "Planets",
-      "value": "Two"
+      "value": "Ringed"
     },
     {
       "trait_type": "UFOs",
-      "value": "Fleet"
+      "value": "Few"
     },
     {
       "trait_type": "Explosions",
-      "value": "Two"
+      "value": "Barrage"
     },
     {
       "trait_type": "Lightning",
-      "value": "Tempest"
+      "value": "None"
     },
     {
       "trait_type": "Smoke",
-      "value": "Shroud"
+      "value": "Rising"
     },
     {
       "trait_type": "Dust",
@@ -54,7 +54,7 @@
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Grove"
+      "value": "Few"
     },
     {
       "trait_type": "Spores",
@@ -62,11 +62,11 @@
     },
     {
       "trait_type": "Aura",
-      "value": "Warm"
+      "value": "Opposed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Ringed"
+      "value": "Void"
     }
   ],
   "properties": {

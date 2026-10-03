@@ -18,11 +18,11 @@
     },
     {
       "trait_type": "Geometry",
-      "value": "Rosette"
+      "value": "Spiral"
     },
     {
       "trait_type": "Stars",
-      "value": "Dense"
+      "value": "None"
     },
     {
       "trait_type": "Planets",
@@ -46,11 +46,11 @@
     },
     {
       "trait_type": "Dust",
-      "value": "Drifting"
+      "value": "Faint"
     },
     {
       "trait_type": "Trees",
-      "value": "Copse"
+      "value": "Forest"
     },
     {
       "trait_type": "Mushrooms",
@@ -58,11 +58,11 @@
     },
     {
       "trait_type": "Spores",
-      "value": "Golden"
+      "value": "Opposed"
     },
     {
       "trait_type": "Aura",
-      "value": "Opposed"
+      "value": "Warm"
     },
     {
       "trait_type": "Eyes",

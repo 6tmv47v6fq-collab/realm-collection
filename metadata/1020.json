@@ -14,7 +14,7 @@
     },
     {
       "trait_type": "Colourway",
-      "value": "Ossuary"
+      "value": "Eclipse"
     },
     {
       "trait_type": "Geometry",
@@ -26,11 +26,11 @@
     },
     {
       "trait_type": "Planets",
-      "value": "Two"
+      "value": "Cluster"
     },
     {
       "trait_type": "UFOs",
-      "value": "Fleet"
+      "value": "Few"
     },
     {
       "trait_type": "Explosions",
@@ -42,7 +42,7 @@
     },
     {
       "trait_type": "Smoke",
-      "value": "Shroud"
+      "value": "Wisp"
     },
     {
       "trait_type": "Dust",
@@ -54,19 +54,19 @@
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Cluster"
+      "value": "None"
     },
     {
       "trait_type": "Spores",
-      "value": "Cold"
+      "value": "Golden"
     },
     {
       "trait_type": "Aura",
-      "value": "Rose"
+      "value": "Cold"
     },
     {
       "trait_type": "Eyes",
-      "value": "Plain"
+      "value": "Void"
     }
   ],
   "properties": {
