@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "dread-winged"
+      "value": "Mythic 13"
     },
     {
       "trait_type": "Colourway",
-      "value": "Bloom"
+      "value": "Abyss"
     },
     {
       "trait_type": "Geometry",
-      "value": "Flower"
+      "value": "Rays"
     },
     {
-      "trait_type": "Stars",
-      "value": "Field"
+      "trait_type": "Aura",
+      "value": "Acid"
     },
     {
       "trait_type": "Planets",
-      "value": "One"
+      "value": "Two"
     },
     {
       "trait_type": "UFOs",
-      "value": "Fleet"
+      "value": "None"
     },
     {
-      "trait_type": "Explosions",
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
       "trait_type": "Lightning",
-      "value": "Tempest"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Rising"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Drifting"
-    },
-    {
-      "trait_type": "Trees",
-      "value": "Forest"
+      "value": "None"
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Grove"
+      "value": "None"
     },
     {
-      "trait_type": "Spores",
-      "value": "Matching"
+      "trait_type": "Trees",
+      "value": "None"
     },
     {
-      "trait_type": "Aura",
-      "value": "Cold"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Spiral"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

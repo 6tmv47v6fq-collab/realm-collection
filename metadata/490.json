@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "crowned-flame"
+      "value": "Coil Spirit"
     },
     {
       "trait_type": "Colourway",
-      "value": "Furnace"
+      "value": "Auric"
     },
     {
       "trait_type": "Geometry",
-      "value": "Yantra"
-    },
-    {
-      "trait_type": "Stars",
-      "value": "Sparse"
-    },
-    {
-      "trait_type": "Planets",
-      "value": "One"
-    },
-    {
-      "trait_type": "UFOs",
-      "value": "One"
-    },
-    {
-      "trait_type": "Explosions",
-      "value": "One"
-    },
-    {
-      "trait_type": "Lightning",
-      "value": "Storm"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Rising"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Heavy"
-    },
-    {
-      "trait_type": "Trees",
-      "value": "One"
-    },
-    {
-      "trait_type": "Mushrooms",
-      "value": "Grove"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Opposed"
+      "value": "Gatefold"
     },
     {
       "trait_type": "Aura",
       "value": "Acid"
     },
     {
-      "trait_type": "Eyes",
-      "value": "Slit"
+      "trait_type": "Planets",
+      "value": "None"
+    },
+    {
+      "trait_type": "UFOs",
+      "value": "Few"
+    },
+    {
+      "trait_type": "Supernova",
+      "value": "None"
+    },
+    {
+      "trait_type": "Lightning",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mushrooms",
+      "value": "Few"
+    },
+    {
+      "trait_type": "Trees",
+      "value": "None"
+    },
+    {
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

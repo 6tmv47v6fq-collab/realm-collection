@@ -10,46 +10,34 @@
     },
     {
       "trait_type": "Being",
-      "value": "grey-tall"
+      "value": "Mushroom 45"
     },
     {
       "trait_type": "Colourway",
-      "value": "Furnace"
+      "value": "Moss"
     },
     {
       "trait_type": "Geometry",
-      "value": "Lattice"
+      "value": "Rosette"
     },
     {
-      "trait_type": "Stars",
-      "value": "Field"
+      "trait_type": "Aura",
+      "value": "Cold"
     },
     {
       "trait_type": "Planets",
-      "value": "Ringed"
-    },
-    {
-      "trait_type": "UFOs",
-      "value": "Fleet"
-    },
-    {
-      "trait_type": "Explosions",
-      "value": "One"
-    },
-    {
-      "trait_type": "Lightning",
-      "value": "Strike"
-    },
-    {
-      "trait_type": "Smoke",
       "value": "None"
     },
     {
-      "trait_type": "Dust",
-      "value": "Drifting"
+      "trait_type": "UFOs",
+      "value": "None"
     },
     {
-      "trait_type": "Trees",
+      "trait_type": "Supernova",
+      "value": "None"
+    },
+    {
+      "trait_type": "Lightning",
       "value": "None"
     },
     {
@@ -57,16 +45,12 @@
       "value": "None"
     },
     {
-      "trait_type": "Spores",
-      "value": "Matching"
+      "trait_type": "Trees",
+      "value": "Copse"
     },
     {
-      "trait_type": "Aura",
-      "value": "Cold"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Slit"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

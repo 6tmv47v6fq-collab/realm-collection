@@ -10,30 +10,30 @@
     },
     {
       "trait_type": "Being",
-      "value": "crowned-entity"
+      "value": "Black Sun"
     },
     {
       "trait_type": "Colourway",
-      "value": "Bloom"
+      "value": "Sapphire"
     },
     {
       "trait_type": "Geometry",
-      "value": "Metatron"
+      "value": "Rosette"
     },
     {
-      "trait_type": "Stars",
-      "value": "Dense"
+      "trait_type": "Aura",
+      "value": "Rose"
     },
     {
       "trait_type": "Planets",
-      "value": "Ringed"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
-      "value": "One"
+      "value": "None"
     },
     {
-      "trait_type": "Explosions",
+      "trait_type": "Supernova",
       "value": "Two"
     },
     {
@@ -41,32 +41,16 @@
       "value": "None"
     },
     {
-      "trait_type": "Smoke",
+      "trait_type": "Mushrooms",
       "value": "None"
     },
     {
-      "trait_type": "Dust",
-      "value": "Heavy"
-    },
-    {
       "trait_type": "Trees",
-      "value": "Forest"
+      "value": "Copse"
     },
     {
-      "trait_type": "Mushrooms",
-      "value": "Grove"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Golden"
-    },
-    {
-      "trait_type": "Aura",
-      "value": "Opposed"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Ringed"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

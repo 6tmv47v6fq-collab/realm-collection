@@ -10,46 +10,34 @@
     },
     {
       "trait_type": "Being",
-      "value": "reptilian"
+      "value": "Folk 52"
     },
     {
       "trait_type": "Colourway",
-      "value": "Eclipse"
+      "value": "Auric"
     },
     {
       "trait_type": "Geometry",
-      "value": "None"
+      "value": "Yantra"
     },
     {
-      "trait_type": "Stars",
-      "value": "Dense"
+      "trait_type": "Aura",
+      "value": "Acid"
     },
     {
       "trait_type": "Planets",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
       "value": "None"
     },
     {
-      "trait_type": "Explosions",
-      "value": "One"
-    },
-    {
-      "trait_type": "Lightning",
-      "value": "Strike"
-    },
-    {
-      "trait_type": "Smoke",
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
-      "trait_type": "Dust",
-      "value": "Drifting"
-    },
-    {
-      "trait_type": "Trees",
+      "trait_type": "Lightning",
       "value": "None"
     },
     {
@@ -57,16 +45,12 @@
       "value": "None"
     },
     {
-      "trait_type": "Spores",
-      "value": "Matching"
+      "trait_type": "Trees",
+      "value": "None"
     },
     {
-      "trait_type": "Aura",
-      "value": "Acid"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Painted"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

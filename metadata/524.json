@@ -10,63 +10,47 @@
     },
     {
       "trait_type": "Being",
-      "value": "reptilian"
+      "value": "Folk 45"
     },
     {
       "trait_type": "Colourway",
-      "value": "Regalia"
+      "value": "Bloom"
     },
     {
       "trait_type": "Geometry",
-      "value": "None"
+      "value": "Rays"
     },
     {
-      "trait_type": "Stars",
-      "value": "Sparse"
+      "trait_type": "Aura",
+      "value": "Rose"
     },
     {
       "trait_type": "Planets",
-      "value": "One"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
-      "value": "One"
+      "value": "None"
     },
     {
-      "trait_type": "Explosions",
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
       "trait_type": "Lightning",
-      "value": "Tempest"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "None"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Drifting"
-    },
-    {
-      "trait_type": "Trees",
-      "value": "None"
+      "value": "Strike"
     },
     {
       "trait_type": "Mushrooms",
-      "value": "Few"
+      "value": "None"
     },
     {
-      "trait_type": "Spores",
-      "value": "Golden"
+      "trait_type": "Trees",
+      "value": "Copse"
     },
     {
-      "trait_type": "Aura",
-      "value": "Acid"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Painted"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

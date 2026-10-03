@@ -10,30 +10,30 @@
     },
     {
       "trait_type": "Being",
-      "value": "crowned-entity"
+      "value": "Bone Knight"
     },
     {
       "trait_type": "Colourway",
-      "value": "Sapphire"
+      "value": "Eclipse"
     },
     {
       "trait_type": "Geometry",
-      "value": "None"
+      "value": "Mandala"
     },
     {
-      "trait_type": "Stars",
-      "value": "Field"
+      "trait_type": "Aura",
+      "value": "Acid"
     },
     {
       "trait_type": "Planets",
-      "value": "Two"
+      "value": "None"
     },
     {
       "trait_type": "UFOs",
-      "value": "One"
+      "value": "None"
     },
     {
-      "trait_type": "Explosions",
+      "trait_type": "Supernova",
       "value": "None"
     },
     {
@@ -41,32 +41,16 @@
       "value": "Storm"
     },
     {
-      "trait_type": "Smoke",
-      "value": "Shroud"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Heavy"
-    },
-    {
-      "trait_type": "Trees",
-      "value": "Copse"
-    },
-    {
       "trait_type": "Mushrooms",
       "value": "Few"
     },
     {
-      "trait_type": "Spores",
-      "value": "Golden"
+      "trait_type": "Trees",
+      "value": "One"
     },
     {
-      "trait_type": "Aura",
-      "value": "Cold"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Void"
+      "trait_type": "Moon Dust",
+      "value": "None"
     }
   ],
   "properties": {

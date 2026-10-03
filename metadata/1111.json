@@ -1,7 +1,7 @@
 {
-  "name": "REALM #1111 \u2014 The Source",
+  "name": "REALM #1111 \u2014 The Prime Source",
   "symbol": "REALM",
-  "description": "The 1,111th being of the realm. There is one, and there will never be another.",
+  "description": "Origin of all creation. The singular spark containing infinite knowledge. The 1,111th being of the realm: there is one, and there will never be another.",
   "image": "1111.png",
   "attributes": [
     {
@@ -10,63 +10,11 @@
     },
     {
       "trait_type": "Being",
-      "value": "source"
+      "value": "The Prime Source"
     },
     {
       "trait_type": "Colourway",
-      "value": "The Source"
-    },
-    {
-      "trait_type": "Geometry",
-      "value": "Yantra"
-    },
-    {
-      "trait_type": "Stars",
-      "value": "Field"
-    },
-    {
-      "trait_type": "Planets",
-      "value": "None"
-    },
-    {
-      "trait_type": "UFOs",
-      "value": "None"
-    },
-    {
-      "trait_type": "Explosions",
-      "value": "None"
-    },
-    {
-      "trait_type": "Lightning",
-      "value": "None"
-    },
-    {
-      "trait_type": "Smoke",
-      "value": "Shroud"
-    },
-    {
-      "trait_type": "Dust",
-      "value": "Faint"
-    },
-    {
-      "trait_type": "Trees",
-      "value": "None"
-    },
-    {
-      "trait_type": "Mushrooms",
-      "value": "Few"
-    },
-    {
-      "trait_type": "Spores",
-      "value": "Golden"
-    },
-    {
-      "trait_type": "Aura",
-      "value": "Cold"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Painted"
+      "value": "Prime Gold"
     }
   ],
   "properties": {
