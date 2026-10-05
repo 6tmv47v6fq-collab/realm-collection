@@ -1,0 +1,30 @@
+{
+  "name": "REALM #1111 \u2014 The Prime Source",
+  "symbol": "REALM",
+  "description": "Origin of all creation. The singular spark containing infinite knowledge. The 1,111th being of the realm: there is one, and there will never be another.",
+  "image": "1110.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Source"
+    },
+    {
+      "trait_type": "Being",
+      "value": "The Prime Source"
+    },
+    {
+      "trait_type": "Colourway",
+      "value": "Prime Gold"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1110.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "external_url": "https://dmt-realm.dev"
+}

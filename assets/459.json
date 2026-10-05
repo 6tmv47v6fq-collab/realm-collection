@@ -1,0 +1,66 @@
+{
+  "name": "REALM #460",
+  "symbol": "REALM",
+  "description": "One of 1,111 beings of the realm.",
+  "image": "459.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "God"
+    },
+    {
+      "trait_type": "Being",
+      "value": "Moon Serpent"
+    },
+    {
+      "trait_type": "Colourway",
+      "value": "Obsidian"
+    },
+    {
+      "trait_type": "Geometry",
+      "value": "Rosette"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Opposed"
+    },
+    {
+      "trait_type": "Planets",
+      "value": "Ringed"
+    },
+    {
+      "trait_type": "UFOs",
+      "value": "None"
+    },
+    {
+      "trait_type": "Supernova",
+      "value": "One"
+    },
+    {
+      "trait_type": "Lightning",
+      "value": "Tempest"
+    },
+    {
+      "trait_type": "Mushrooms",
+      "value": "Grove"
+    },
+    {
+      "trait_type": "Trees",
+      "value": "None"
+    },
+    {
+      "trait_type": "Moon Dust",
+      "value": "None"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "459.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "external_url": "https://dmt-realm.dev"
+}

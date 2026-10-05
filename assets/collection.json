@@ -1,0 +1,16 @@
+{
+  "name": "REALM",
+  "symbol": "REALM",
+  "description": "1,111 beings from the DMT realm, each living inside its own sacred geometry. Nine tiers, ten Gods, and one Source.",
+  "image": "collection.png",
+  "external_url": "https://dmt-realm.dev",
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

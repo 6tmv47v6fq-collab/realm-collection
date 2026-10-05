@@ -1,0 +1,66 @@
+{
+  "name": "REALM #992",
+  "symbol": "REALM",
+  "description": "One of 1,111 beings of the realm.",
+  "image": "991.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Mythic"
+    },
+    {
+      "trait_type": "Being",
+      "value": "Mythic 09"
+    },
+    {
+      "trait_type": "Colourway",
+      "value": "Furnace"
+    },
+    {
+      "trait_type": "Geometry",
+      "value": "Yantra"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Planets",
+      "value": "None"
+    },
+    {
+      "trait_type": "UFOs",
+      "value": "Few"
+    },
+    {
+      "trait_type": "Supernova",
+      "value": "None"
+    },
+    {
+      "trait_type": "Lightning",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mushrooms",
+      "value": "Few"
+    },
+    {
+      "trait_type": "Trees",
+      "value": "One"
+    },
+    {
+      "trait_type": "Moon Dust",
+      "value": "None"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "991.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "external_url": "https://dmt-realm.dev"
+}

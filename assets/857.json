@@ -1,0 +1,66 @@
+{
+  "name": "REALM #858",
+  "symbol": "REALM",
+  "description": "One of 1,111 beings of the realm.",
+  "image": "857.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "God"
+    },
+    {
+      "trait_type": "Being",
+      "value": "Crystal Kraken"
+    },
+    {
+      "trait_type": "Colourway",
+      "value": "Blood Moon"
+    },
+    {
+      "trait_type": "Geometry",
+      "value": "Rays"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Cold"
+    },
+    {
+      "trait_type": "Planets",
+      "value": "None"
+    },
+    {
+      "trait_type": "UFOs",
+      "value": "None"
+    },
+    {
+      "trait_type": "Supernova",
+      "value": "Two"
+    },
+    {
+      "trait_type": "Lightning",
+      "value": "Tempest"
+    },
+    {
+      "trait_type": "Mushrooms",
+      "value": "Cluster"
+    },
+    {
+      "trait_type": "Trees",
+      "value": "One"
+    },
+    {
+      "trait_type": "Moon Dust",
+      "value": "None"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "857.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "external_url": "https://dmt-realm.dev"
+}
